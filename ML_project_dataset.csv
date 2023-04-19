@@ -1,0 +1,675 @@
+﻿Monomer A1 type,Monomer A2 type,A1/A2 ratio,"Monomer A concentration, wt%",Monomer B type,"Monomer B concentration, wt%",Organic solvent type, Additive X1 type in aqueous phase,"Additive X1 concentration, wt%", Additive X2 type in aqueous phase,"Additive X2 concentration, wt%",Aqueous phase pH, Additive Y type in organic  phase,"Additive Y concentration, wt%",Nanomaterials type in aqueous phase,"Nanomaterials loading in aqueous phase, wt%",Nanomaterials type in organic phase,"Nanomaterials loading in organnic phase, wt%",Nanomateials morphology,"Polymerization time, s","Heat curing time, min","Heat curing termperature, degree",Substrate membrane type,substrate membrane pore size,"Transmembrane presurre, bar","NaCl concentration, ppm","MgSO4 concentratin, ppm","Na2SO4 concentration, ppm","MgCl2 concentration, ppm","CaCl2 Concentration, ppm","Permeability, LMH/bar","NaCl rejection, %","Mg2SO4 rejection, %","Na2SO4 rejection, %","MgCl2 rejection, %","CaCl2 rejection, %",Literature DOI
+Piperazine,,,0.2,trimesoyl chloride (265.5),0.2,hexane,,,,,,,,,,,,,120,,25,1,,2,1000,1000,1000,1000,,7.5,,87,86,10,,10.1016/j.desal.2013.11.035
+Piperazine,,,0.5,trimesoyl chloride (265.5),0.1,Isoparaphin-G,,,,,10,,,,,,,,60,,80,2,20,5,500,500,500,,,7,,,98,,,10.1016/j.memsci.2009.03.011
+Piperazine,,,1.5,"3,3′,5,5′-biphenyl tetraacyl chloride (330.25)",0.1,Isoparaphin-G,,,,,10,,,,,,,,60,,80,2,20,5,500,500,500,,,4,,,92.5,,,10.1016/j.memsci.2009.03.011
+Piperazine,,,1,"3,3′,5,5′-biphenyl tetraacyl chloride (330.25)",0.1,Isoparaphin-G,,,,,10,,,,,,,,60,,80,2,20,5,500,500,500,,,8.6,,,93,,,10.1016/j.memsci.2009.03.011
+Piperazine,,,0.5,"3,3′,5,5′-biphenyl tetraacyl chloride (330.25)",0.1,Isoparaphin-G,,,,,10,,,,,,,,60,,80,2,20,5,500,500,500,,,10.3,65,92,95,,,10.1016/j.memsci.2009.03.011
+Piperazine,,,0.25,"3,3′,5,5′-biphenyl tetraacyl chloride (330.25)",0.1,Isoparaphin-G,,,,,10,,,,,,,,60,,80,2,20,5,500,500,500,500,,12,,,87.5,30,,10.1016/j.memsci.2009.03.011
+Piperazine,,,0.5,"3,3′,5,5′-biphenyl tetraacyl chloride (330.25)",0.15,Isoparaphin-G,,,,,10,,,,,,,,60,,80,2,20,5,500,500,500,,,9.2,,,96,,,10.1016/j.memsci.2009.03.011
+Piperazine,,,0.5,"3,3′,5,5′-biphenyl tetraacyl chloride (330.25)",0.125,Isoparaphin-G,,,,,10,,,,,,,,60,,80,2,20,5,500,500,500,,,9.5,,,95.5,,,10.1016/j.memsci.2009.03.011
+Piperazine,,,0.5,"3,3′,5,5′-biphenyl tetraacyl chloride (330.25)",0.075,Isoparaphin-G,,,,,10,,,,,,,,60,,80,2,20,5,500,500,500,,,11.8,,,90,,,10.1016/j.memsci.2009.03.011
+Piperazine,,,0.5,"3,3′,5,5′-biphenyl tetraacyl chloride (330.25)",0.05,Isoparaphin-G,,,,,10,,,,,,,,60,,80,2,20,5,500,500,500,,,14.2,,,83,,,10.1016/j.memsci.2009.03.011
+Piperazine,,,0.5,"3,3′,5,5′-biphenyl tetraacyl chloride (330.25)",0.1,Isoparaphin-G,,,,,10,,,,,,,,30,,80,2,20,5,500,500,500,,,13.2,,,86,,,10.1016/j.memsci.2009.03.011
+Piperazine,,,0.5,"3,3′,5,5′-biphenyl tetraacyl chloride (330.25)",0.1,Isoparaphin-G,,,,,10,,,,,,,,90,,80,2,20,5,500,500,500,,,8.4,,,95.5,,,10.1016/j.memsci.2009.03.011
+Piperazine,,,0.5,"3,3′,5,5′-biphenyl tetraacyl chloride (330.25)",0.1,Isoparaphin-G,,,,,10,,,,,,,,120,,80,2,20,5,500,500,500,,,5,,,96.3,,,10.1016/j.memsci.2009.03.011
+Piperazine,,,0.5,"3,3′,5,5′-biphenyl tetraacyl chloride (330.25)",0.1,Isoparaphin-G,sodum dodecyl sulfate,0.05,,,,,,,,,,,10,10,80,62,,4,500,500,500,,,14.58,58,,40.9,,,10.1016/j.memsci.2011.05.015
+Piperazine,,,1,trimesoyl chloride (265.5),0.13,cyclohexane ,,,,,,,,,,,,,10,,25,4,,10,3000,3000,3000,,,6.6,40,93,95,,,10.1016/j.memsci.2005.12.014
+Piperazine,,,0.2,trimesoyl chloride (265.5),0.1,hexane,,,,,,,,,,,,,45,10,100,5,500,10.3,1000,1000,1000,,,9.17,44.6,84.6,,,,10.1016/j.desal.2014.05.007
+Piperazine,,,0.2,trimesoyl chloride (265.5),0.1,hexane,,,,,,,,,,,,,45,10,100,6,200,10.3,1000,1000,1000,,,5.65,35.3,87,,,,10.1016/j.desal.2014.05.007
+Piperazine,,,0.2,trimesoyl chloride (265.5),0.1,hexane,,,,,,,,,,,,,45,10,100,7,100,10.3,1000,1000,1000,,,2.48,47.8,92.3,,,,10.1016/j.desal.2014.05.007
+Piperazine,,,2,trimesoyl chloride (265.5),0.3,hexane,,,,,,,,,,,,,60,5,60,8,,5,1000,1000,1000,,,4,,87.5,95,,,10.1016/j.desal.2013.08.021
+Piperazine,,,2,trimesoyl chloride (265.5),0.3,hexane,,,,,,,,,,,,,60,5,60,9,,5,1000,1000,1000,,,5,,89,95.5,,,10.1016/j.desal.2013.08.021
+Piperazine,,,2,trimesoyl chloride (265.5),0.3,hexane,,,,,,,,,,,,,60,5,60,10,,5,1000,1000,1000,,,4.2,,87.5,95,,,10.1016/j.desal.2013.08.021
+Piperazine,,,2,trimesoyl chloride (265.5),0.3,hexane,,,,,,,,,,,,,60,5,60,11,,5,1000,1000,1000,,,3,,87.5,96,,,10.1016/j.desal.2013.08.021
+Piperazine,,,2,trimesoyl chloride (265.5),0.2,hexane,,,,,,,,,,,,,40,3,80,54,58,5,1000,1000,1000,,,11.4,44,80,,,,10.1016/j.desal.2010.02.034
+Piperazine,,,2,trimesoyl chloride (265.5),0.2,hexane,,,,,,,,,,,,,40,3,80,54,58,10,1000,1000,1000,,,10.1,35,70,,,,10.1016/j.desal.2010.02.034
+Piperazine,,,0.25,trimesoyl chloride (265.5),0.2,hexane,,,,,,,,,,,,,30,30,60,55,,4,1000,1000,1000,1000,,12.6,15,95.3,97.1,45.5,,10.1038/s41467-020-15771-2
+Piperazine,,,1,trimesoyl chloride (265.5),0.225,hexane,,,,,,,,,,,,,15,5,80,56,50,6,2000,2000,2000,,,7.5,,,97,,,10.1016/j.desal.2012.06.015
+Piperazine,,,2,trimesoyl chloride (265.5),0.194,cyclohexane,,,,,,,,,,,,,10,3,80,57,,6,1000,1000,1000,,,10.5,,,92.5,,,10.1016/j.desal.2014.03.036
+Piperazine,,,2,trimesoyl chloride (265.5),0.194,cyclohexane,,,,,,,,,,,,,10,3,80,4,,6,1000,1000,1000,,,14.2,,,95,,,10.1016/j.memsci.2005.12.014
+Piperazine,,,2,trimesoyl chloride (265.5),0.194,cyclohexane,,,,,,,,,,,,,10,3,80,9,,6,1000,1000,1000,,,10,,,97.5,,,10.1016/j.desal.2013.08.021
+Piperazine,,,2,trimesoyl chloride (265.5),0.15,hexane,sodium hydroxide,0.9,,,,,,,,,,,60,5,80,58,,6,1000,1000,1000,,,8,40,,90.5,,,10.1016/j.memsci.2015.07.013
+Piperazine,,,0.3,trimesoyl chloride (265.5),0.45,hexane,,,,,,,,,,,,,120,,60,9,40,6,1000,1000,1000,,,6,,,94,,,10.1016/j.desal.2013.08.021
+Piperazine,,,0.3,trimesoyl chloride (265.5),0.45,hexane,,,,,,,,,,,,,120,,60,25,40,6,1000,1000,1000,1000,,9.8,50,95,97,69,,doi.org/10.1021/acs.langmuir.6b04465
+Piperazine,,,2,trimesoyl chloride (265.5),0.1875,hexane,,,,,,,,,,,,,60,2,60,27,100,5,1500,,1500,1500,1500,,27,,92,55,50,doi.org/10.1016/j.cej.2018.10.147
+Piperazine,Triethylamine,5,2.4,trimesoyl chloride (265.5),0.45,hexane,,,,,,,,,,,,,120,2,70,29,,10,1000,,1000,1000,,4.6,50,,85,32,,doi.org/10.1016/j.memsci.2009.07.033
+Piperazine,Triethylamine,5,2.4,trimesoyl chloride (265.5),0.45,hexane,,,,,,cetyltrimethylammonium bromide,0.1,,,,,,120,2,70,29,,10,1000,,1000,1000,,4.5,58,,90,31,,doi.org/10.1016/j.memsci.2009.07.033
+Piperazine,Triethylamine,5,2.4,trimesoyl chloride (265.5),0.45,hexane,,,,,,cetyltrimethylammonium bromide,0.25,,,,,,120,2,70,29,,10,1000,,1000,1000,,5.4,53,,85,40,,doi.org/10.1016/j.memsci.2009.07.033
+Piperazine,Triethylamine,5,2.4,trimesoyl chloride (265.5),0.45,hexane,,,,,,cetyltrimethylammonium bromide,0.5,,,,,,120,2,70,29,,10,1000,,1000,1000,,5.1,70,,82,45,,doi.org/10.1016/j.memsci.2009.07.033
+Piperazine,Triethylamine,5,2.4,trimesoyl chloride (265.5),0.45,hexane,,,,,,triton X-100,0.1,,,,,,120,2,70,29,,10,1000,,1000,1000,,5.3,59,,71,33,,doi.org/10.1016/j.memsci.2009.07.033
+Piperazine,Triethylamine,5,2.4,trimesoyl chloride (265.5),0.45,hexane,,,,,,triton X-100,0.25,,,,,,120,2,70,29,,10,1000,,1000,1000,,3,52,,66,54,,doi.org/10.1016/j.memsci.2009.07.033
+Piperazine,Triethylamine,5,2.4,trimesoyl chloride (265.5),0.45,hexane,,,,,,triton X-100,0.5,,,,,,120,2,70,29,,10,1000,,1000,1000,,1.4,64,,51,71,,doi.org/10.1016/j.memsci.2009.07.033
+Piperazine,Triethylamine,5,2.4,trimesoyl chloride (265.5),0.45,hexane,,,,,,sodum dodecyl sulfate,0.1,,,,,,120,2,70,29,,10,1000,,1000,1000,,4.9,45,,82,77,,doi.org/10.1016/j.memsci.2009.07.033
+Piperazine,Triethylamine,5,2.4,trimesoyl chloride (265.5),0.45,hexane,,,,,,sodum dodecyl sulfate,0.25,,,,,,120,2,70,29,,10,1000,,1000,1000,,8.3,51,,82,73,,doi.org/10.1016/j.memsci.2009.07.033
+Piperazine,Triethylamine,5,2.4,trimesoyl chloride (265.5),0.45,hexane,,,,,,sodum dodecyl sulfate,0.5,,,,,,120,2,70,29,,10,1000,,1000,1000,,7.6,40,,88,69,,doi.org/10.1016/j.memsci.2009.07.033
+Piperazine,,,0.2,trimesoyl chloride (265.5),0.34,IP1016,,,,,8,,,,,,,,10,5,80,30,,10,2000,2000,,,,5.5,46,91,,,,10.1016/j.memsci.2007.11.002
+Piperazine,,,0.2,trimesoyl chloride (265.5),0.34,IP1016,,,,,8,,,,,,,,20,5,80,30,,10,2000,2000,,,,7.4,65,98,,,,10.1016/j.memsci.2007.11.002
+Piperazine,,,0.2,trimesoyl chloride (265.5),0.34,IP1016,,,,,8,,,,,,,,40,5,80,30,,10,2000,2000,,,,7.8,65,99,,,,10.1016/j.memsci.2007.11.002
+Piperazine,,,0.2,trimesoyl chloride (265.5),0.34,IP1016,,,,,8,,,,,,,,60,5,80,30,,10,2000,2000,,,,6.5,55,97,,,,10.1016/j.memsci.2007.11.002
+Piperazine,,,0.2,trimesoyl chloride (265.5),0.34,IP1016,,,,,8,,,,,,,,40,5,40,30,,10,2000,2000,,,,8.5,45,90,,,,10.1016/j.memsci.2007.11.002
+Piperazine,,,0.2,trimesoyl chloride (265.5),0.34,IP1016,,,,,8,,,,,,,,40,5,60,30,,10,2000,2000,,,,8,62,98,,,,10.1016/j.memsci.2007.11.002
+Piperazine,,,0.2,trimesoyl chloride (265.5),0.34,IP1016,,,,,8,,,,,,,,40,5,80,30,,10,2000,2000,,,,7.7,67,99,,,,10.1016/j.memsci.2007.11.002
+Piperazine,,,0.2,trimesoyl chloride (265.5),0.34,IP1016,,,,,8,,,,,,,,40,5,100,30,,10,2000,2000,,,,5.5,65,98,,,,10.1016/j.memsci.2007.11.002
+Piperazine,,,0.2,trimesoyl chloride (265.5),0.34,IP1016,,,,,8,,,,,,,,40,3,80,30,,10,2000,2000,,,,8.3,65,98,,,,10.1016/j.memsci.2007.11.002
+Piperazine,,,0.2,trimesoyl chloride (265.5),0.34,IP1016,,,,,8,,,,,,,,40,5,80,30,,10,2000,2000,,,,7.5,68,99,,,,10.1016/j.memsci.2007.11.002
+Piperazine,,,0.2,trimesoyl chloride (265.5),0.34,IP1016,,,,,8,,,,,,,,40,10,80,30,,10,2000,2000,,,,6.5,55,96,,,,10.1016/j.memsci.2007.11.002
+Piperazine,,,0.2,trimesoyl chloride (265.5),0.34,IP1016,sodium hydroxide,,,,8,,,,,,,,40,5,80,30,,10,2000,2000,,,,4.8,65,98,,,,10.1016/j.memsci.2007.11.002
+Piperazine,,,0.2,trimesoyl chloride (265.5),0.34,IP1016,sodium phosphate,,,,8,,,,,,,,40,5,80,30,,10,2000,2000,,,,7.6,68,98,,,,10.1016/j.memsci.2007.11.002
+Piperazine,,,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,90,5,80,35,160,10.3,2000,1000,,,,11.9,50,90,,,,doi.org/10.1016/j.memsci.2009.06.025
+Piperazine,,,2,trimesoyl chloride (265.5),0.15,hexane,sodum dodecyl sulfate,0.1,,,,,,,,,,,90,5,80,35,160,10.3,2000,1000,,,,11.9,50,90,,,,doi.org/10.1016/j.memsci.2009.06.025
+Piperazine,,,1,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,90,5,80,35,160,10.3,2000,1000,,,,14.1,10,45,,,,doi.org/10.1016/j.memsci.2009.06.025
+Piperazine,,,1,trimesoyl chloride (265.5),0.15,hexane,sodium hydroxide,0.9,,,,,,,,,,,90,5,80,35,160,10.3,2000,1000,,,,16.5,10,45,,,,doi.org/10.1016/j.memsci.2009.06.025
+Piperazine,,,2,isophthaloyal  chloride  (203.02),0.15,hexane,,,,,,,,,,,,,90,5,80,35,160,10.3,2000,,,,,2.4,40,,,,,doi.org/10.1016/j.memsci.2009.06.025
+Piperazine,,,2,isophthaloyal  chloride  (203.02),0.15,hexane,sodium hydroxide,0.9,,,,,,,,,,,90,5,80,35,160,10.3,2000,,,,,5,75,,,,,doi.org/10.1016/j.memsci.2009.06.025
+Piperazine,,,1.5,trimesoyl chloride (265.5),0.75,hexane,,,,,,,,,,,,,60,720,22,13,60,7.5,2000,,,,,6,30,,,,,doi.org/10.1016/S1383-5866(02)00095-3
+Piperazine,,,1.5,trimesoyl chloride (265.5),0.75,hexane,,,,,,,,,,,,,60,720,22,13,60,5.5,,2000,,,,6,,92,,,,doi.org/10.1016/S1383-5866(02)00095-3
+Piperazine,,,1.5,trimesoyl chloride (265.5),0.75,hexane,,,,,,,,,,,,,60,720,22,13,60,5,,,2000,,,6,,,95,,,doi.org/10.1016/S1383-5866(02)00095-3
+Piperazine,,,1.5,trimesoyl chloride (265.5),0.75,hexane,,,,,,,,,,,,,60,720,22,13,60,5,1000,,1000,,,5.8,10,,96,,,doi.org/10.1016/S1383-5866(02)00095-3
+Piperazine,,,1.5,trimesoyl chloride (265.5),0.75,hexane,,,,,,,,,,,,,60,720,22,13,60,6.7,1000,,1000,,,5.820895522,15,,97,,,doi.org/10.1016/S1383-5866(02)00095-3
+Piperazine,,,1.5,trimesoyl chloride (265.5),0.75,hexane,,,,,,,,,,,,,60,720,22,13,60,8,1000,,1000,,,6.125,17,,97,,,doi.org/10.1016/S1383-5866(02)00095-3
+Piperazine,,,1,trimesoyl chloride (265.5),0.05,hexane,triethylamine,1,,,,,,,,,,,10,1440,22,3,168,6.89,1000,1000,1000,1000,,6.037735849,22,95,99,77,,doi.org/10.1002/app.1387
+Piperazine,,,1,trimesoyl chloride (265.5),0.05,hexane,triethylamine,1,,,,,,,,,,,10,1440,22,3,168,13.7,1000,1000,1000,1000,,5.182481752,27,94,98,79,,doi.org/10.1002/app.1387
+Piperazine,,,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,10,,,42,,1.5,584,1200,1420,952,,,40,97,91,97,,doi.org/10.1021/ie0497994
+Piperazine,,,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,10,,,42,,2.5,584,1200,1420,952,,,36,97,92,97,,doi.org/10.1021/ie0497994
+Piperazine,,,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,10,,,42,,3.5,584,1200,1420,952,,,31,94,86,97,,doi.org/10.1021/ie0497994
+Piperazine,,,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,10,,,42,,4,584,1200,1420,952,,,29,97,93,96,,doi.org/10.1021/ie0497994
+Piperazine,,,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,10,,,42,,4.5,584,1200,1420,952,,9.6,25,99,98,96,,doi.org/10.1021/ie0497994
+Piperazine,"3,5-diaminobenzoic acid",39,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,10,,,42,,1.5,584,1200,1420,952,,12,51,97,95,97,,doi.org/10.1021/ie0497994
+Piperazine,"3,5-diaminobenzoic acid",39,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,10,,,42,,2.5,584,1200,1420,952,,11.52,47,97,95,97,,doi.org/10.1021/ie0497994
+Piperazine,"3,5-diaminobenzoic acid",39,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,10,,,42,,3.5,584,1200,1420,952,,11.82857143,42,95,90,97,,doi.org/10.1021/ie0497994
+Piperazine,"3,5-diaminobenzoic acid",39,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,10,,,42,,4,584,1200,1420,952,,11.7,37,97,95,98,,doi.org/10.1021/ie0497994
+Piperazine,"3,5-diaminobenzoic acid",39,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,10,,,42,,4.5,584,1200,1420,952,,12,34,99,98,98,,doi.org/10.1021/ie0497994
+Piperazine,"3,5-diaminobenzoic acid",19,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,10,,,42,,1.5,584,1200,1420,952,,,58,97,96,94,,doi.org/10.1021/ie0497994
+Piperazine,"3,5-diaminobenzoic acid",19,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,10,,,42,,2.5,584,1200,1420,952,,,53,97,96,95,,doi.org/10.1021/ie0497994
+Piperazine,"3,5-diaminobenzoic acid",19,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,10,,,42,,3.5,584,1200,1420,952,,,50,95,91,95,,doi.org/10.1021/ie0497994
+Piperazine,"3,5-diaminobenzoic acid",19,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,10,,,42,,4,584,1200,1420,952,,,44,97,96,95,,doi.org/10.1021/ie0497994
+Piperazine,"3,5-diaminobenzoic acid",19,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,10,,,42,,4.5,584,1200,1420,952,,11.6,37,99,99,95,,doi.org/10.1021/ie0497994
+Piperazine,"3,5-diaminobenzoic acid",12.3,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,10,,,42,,1.5,584,1200,1420,952,,,62,96,95,97,,doi.org/10.1021/ie0497994
+Piperazine,"3,5-diaminobenzoic acid",12.3,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,10,,,42,,2.5,584,1200,1420,952,,,60,97,96,97,,doi.org/10.1021/ie0497994
+Piperazine,"3,5-diaminobenzoic acid",12.3,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,10,,,42,,3.5,584,1200,1420,952,,,52,95,91,97,,doi.org/10.1021/ie0497994
+Piperazine,"3,5-diaminobenzoic acid",12.3,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,10,,,42,,4,584,1200,1420,952,,,50,97,96,97,,doi.org/10.1021/ie0497994
+Piperazine,"3,5-diaminobenzoic acid",12.3,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,10,,,42,,4.5,584,1200,1420,952,,10.4,45,99,98,97,,doi.org/10.1021/ie0497994
+Piperazine,"3,5-diaminobenzoic acid",9,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,10,,,42,,1.5,584,1200,1420,952,,,65,96,95,98,,doi.org/10.1021/ie0497994
+Piperazine,"3,5-diaminobenzoic acid",9,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,10,,,42,,2.5,584,1200,1420,952,,,61,98,96,98,,doi.org/10.1021/ie0497994
+Piperazine,"3,5-diaminobenzoic acid",9,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,10,,,42,,3.5,584,1200,1420,952,,,53,95,92,98,,doi.org/10.1021/ie0497994
+Piperazine,"3,5-diaminobenzoic acid",9,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,10,,,42,,4,584,1200,1420,952,,,50,97,96,98,,doi.org/10.1021/ie0497994
+Piperazine,"3,5-diaminobenzoic acid",9,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,10,,,42,,4.5,584,1200,1420,952,,8.8,45,99,98,98,,doi.org/10.1021/ie0497994
+Piperazine,,,1,trimesoyl chloride (265.5),0.075,hexane,4-dimethylaminopyridine,0.1,triethylamine,,11.5,,,,,,,,15,70,40,15,50,5,1000,1000,1000,1000,,10.3,31,97,98,91,,doi.org/10.1016/j.memsci.2017.07.054
+Piperazine,,,2,trimesoyl chloride (265.5),0.15,hexane,sodium hydroxide,,,,10,,,,,,,,60,,,44,,3,1000,,1000,,1000,15.33333333,35,,97,,81,doi.org/10.1016/j.desal.2015.08.025
+Piperazine,,,2,trimesoyl chloride (265.5),0.3,hexane,sodium hydroxide,,,,10,,,,,,,,60,,,44,,3,1000,,1000,,1000,13,37,,98,,80,doi.org/10.1016/j.desal.2015.08.025
+Piperazine,,,2,trimesoyl chloride (265.5),0.45,hexane,sodium hydroxide,,,,10,,,,,,,,60,,,44,,3,1000,,1000,,1000,11.66666667,40,,99,,78,doi.org/10.1016/j.desal.2015.08.025
+Piperazine,"2,5-diaminobanzenesolfonic acid",3,2,trimesoyl chloride (265.5),0.15,hexane,sodium hydroxide,,,,10,,,,,,,,60,,,44,,3,1000,,1000,,,18.33333333,,,95,,,doi.org/10.1016/j.desal.2015.08.025
+Piperazine,"2,5-diaminobanzenesolfonic acid",1,2,trimesoyl chloride (265.5),0.15,hexane,sodium hydroxide,,,,10,,,,,,,,60,,,44,,3,1000,,1000,,,20,,,96,,,doi.org/10.1016/j.desal.2015.08.025
+Piperazine,"2,5-diaminobanzenesolfonic acid",0.33,2,trimesoyl chloride (265.5),0.15,hexane,sodium hydroxide,,,,10,,,,,,,,60,,,44,,3,1000,,1000,,,43.33333333,,,60,,,doi.org/10.1016/j.desal.2015.08.025
+Piperazine,"2,5-diaminobanzenesolfonic acid",,2,trimesoyl chloride (265.5),0.15,hexane,sodium hydroxide,,,,10,,,,,,,,60,,,44,,3,1000,,1000,,,58.33333333,,,48,,,doi.org/10.1016/j.desal.2015.08.025
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.2,hexane,,,,,,,,,,,,,60,10,50,16,,6,1000,1000,1000,1000,,6.1,30,93,95,62,,doi.org/10.1016/j.memsci.2017.05.062
+Piperazine,4-aminobenzoic acid,1.5,0.35,trimesoyl chloride (265.5),0.2,hexane,,,,,,,,,,,,,60,10,50,16,,6,,,1000,,,8.3,,,95,,,doi.org/10.1016/j.memsci.2017.05.062
+Piperazine,4-aminobenzoic acid,4,0.35,trimesoyl chloride (265.5),0.2,hexane,,,,,,,,,,,,,60,10,50,16,,6,,,1000,,,8,,,94,,,doi.org/10.1016/j.memsci.2017.05.062
+Piperazine,4-aminobenzoic acid,2.33,0.35,trimesoyl chloride (265.5),0.2,hexane,,,,,,,,,,,,,60,10,50,16,,6,,,1000,,,8,,,93,,,doi.org/10.1016/j.memsci.2017.05.062
+Piperazine,4-aminobenzoic acid,1,0.35,trimesoyl chloride (265.5),0.2,hexane,,,,,,,,,,,,,60,10,50,16,,6,1000,1000,1000,1000,,11.9,15,62,93,21,,doi.org/10.1016/j.memsci.2017.05.062
+Piperazine,4-aminobenzoic acid,0.67,0.35,trimesoyl chloride (265.5),0.2,hexane,,,,,,,,,,,,,60,10,50,16,,6,,,1000,,,15.5,,,50,,,doi.org/10.1016/j.memsci.2017.05.062
+Piperazine,6-aminocaproic acid,1.5,0.35,trimesoyl chloride (265.5),0.2,hexane,,,,,,,,,,,,,60,10,50,16,,6,,,1000,,,7.8,,,93,,,doi.org/10.1016/j.memsci.2017.05.062
+Piperazine,3-aminopropanoic acid,1.5,0.35,trimesoyl chloride (265.5),0.2,hexane,,,,,,,,,,,,,60,10,50,16,,6,,,1000,,,7,,,94,,,doi.org/10.1016/j.memsci.2017.05.062
+Piperazine,Triethylamine,1,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,60,10,,48,79,4.8,2000,2000,,,,6.8,37,98,,,,doi.org/10.1016/j.memsci.2010.08.033
+Piperazine,Triethylamine,1,2,trimesoyl chloride (265.5),0.15,hexane,1-Butyl-3-methyl-imidazolium chloride ,1,,,,,,,,,,,60,10,,48,79,4.8,2000,2000,,,,,58,99,,,,doi.org/10.1016/j.memsci.2010.08.033
+Piperazine,Triethylamine,1,2,trimesoyl chloride (265.5),0.15,hexane,1-Octyl-3-methyl-imidazolium chloride,1,,,,,,,,,,,60,10,,48,79,4.8,2000,2000,,,,,24,97,,,,doi.org/10.1016/j.memsci.2010.08.033
+Piperazine,"3,5-diaminobenzoic acid",39,2,trimesoyl chloride (265.5),0.075,hexane,,,,,,,,,,,,,5,,,60,,4.5,585,,,,,,19,,,,,10.1016/j.memsci.2005.01.021
+Piperazine,"3,5-diaminobenzoic acid",39,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,5,,,60,,4.5,585,,,,,,52,,,,,10.1016/j.memsci.2005.01.021
+Piperazine,"3,5-diaminobenzoic acid",39,2,trimesoyl chloride (265.5),0.225,hexane,,,,,,,,,,,,,5,,,60,,4.5,585,,,,,,65,,,,,10.1016/j.memsci.2005.01.021
+Piperazine,"3,5-diaminobenzoic acid",39,2,trimesoyl chloride (265.5),0.3,hexane,,,,,,,,,,,,,5,,,60,,4.5,585,,,,,,42,,,,,10.1016/j.memsci.2005.01.021
+Piperazine,"3,5-diaminobenzoic acid",39,2,trimesoyl chloride (265.5),0.075,hexane,,,,,,,,,,,,,10,,,60,,4.5,585,,,,,,19,,,,,10.1016/j.memsci.2005.01.021
+Piperazine,"3,5-diaminobenzoic acid",39,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,10,,,60,,4.5,585,,,,,,55,,,,,10.1016/j.memsci.2005.01.021
+Piperazine,"3,5-diaminobenzoic acid",39,2,trimesoyl chloride (265.5),0.225,hexane,,,,,,,,,,,,,10,,,60,,4.5,585,,,,,,45,,,,,10.1016/j.memsci.2005.01.021
+Piperazine,"3,5-diaminobenzoic acid",39,2,trimesoyl chloride (265.5),0.3,hexane,,,,,,,,,,,,,10,,,60,,4.5,585,,,,,,42,,,,,10.1016/j.memsci.2005.01.021
+Piperazine,"3,5-diaminobenzoic acid",39,2,trimesoyl chloride (265.5),0.075,hexane,,,,,,,,,,,,,30,,,60,,4.5,585,,,,,,30,,,,,10.1016/j.memsci.2005.01.021
+Piperazine,"3,5-diaminobenzoic acid",39,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,30,,,60,,4.5,585,,,,,,35,,,,,10.1016/j.memsci.2005.01.021
+Piperazine,"3,5-diaminobenzoic acid",39,2,trimesoyl chloride (265.5),0.225,hexane,,,,,,,,,,,,,30,,,60,,4.5,585,,,,,,36,,,,,10.1016/j.memsci.2005.01.021
+Piperazine,"3,5-diaminobenzoic acid",39,2,trimesoyl chloride (265.5),0.3,hexane,,,,,,,,,,,,,30,,,60,,4.5,585,,,,,,44,,,,,10.1016/j.memsci.2005.01.021
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.3,hexane,,,,,12,,,,,,,,60,15,50,67,35,6,1000,1000,1000,,,5.87,36.8,83.8,98.5,,,10.1016/j.memsci.2017.11.057
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.3,hexane,,,,,12,,,zwitterionic nanogels,0.0175,,,fiber,60,15,50,67,35,6,1000,,1000,,,7.5,30,,98.5,,,10.1016/j.memsci.2017.11.057
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.3,hexane,,,,,12,,,zwitterionic nanogels,0.035,,,fiber,60,15,50,67,35,6,1000,1000,1000,,,10.63,31.6,84.7,97.8,,,10.1016/j.memsci.2017.11.057
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.3,hexane,,,,,12,,,zwitterionic nanogels,0.07,,,fiber,60,15,50,67,35,6,1000,,1000,,,9.17,25,,98.5,,,10.1016/j.memsci.2017.11.057
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.3,hexane,,,,,12,,,zwitterionic nanogels,0.105,,,fiber,60,15,50,67,35,6,1000,,1000,,,8,25,,98.3,,,10.1016/j.memsci.2017.11.057
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.3,hexane,,,,,12,,,,,,,,60,15,50,68,20,6,1000,1000,1000,,,7.12,31,93,98.5,,,10.1016/j.seppur.2018.05.048
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.3,hexane,,,,,12,,,N-aminoethyl piperazine propane sulfonate (AEPPS) modified multi-walled carbon nanotube,0.01,,,tube,60,15,50,68,20,6,,,1000,,,11,,,95,,,10.1016/j.seppur.2018.05.048
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.3,hexane,,,,,12,,,N-aminoethyl piperazine propane sulfonate (AEPPS) modified multi-walled carbon nanotube,0.02,,,tube,60,15,50,68,20,6,,,1000,,,11.9,,,95,,,10.1016/j.seppur.2018.05.048
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.3,hexane,,,,,12,,,N-aminoethyl piperazine propane sulfonate (AEPPS) modified multi-walled carbon nanotube,0.03,,,tube,60,15,50,68,20,6,1000,1000,1000,,,12.73,19,93,98,,,10.1016/j.seppur.2018.05.048
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.3,hexane,,,,,12,,,N-aminoethyl piperazine propane sulfonate (AEPPS) modified multi-walled carbon nanotube,0.04,,,tube,60,15,50,68,20,6,,,1000,,,10.27,,,92,,,10.1016/j.seppur.2018.05.048
+Piperazine,,,1,trimesoyl chloride (265.5),0.05,hexane,,,Na3PO4,0.6,,,,,,,,,60,10,50,69,,3,584.4,1203.66,1420.4,,,6.77,25,90.7,91.1,,,10.1016/j.desal.2018.07.023
+Piperazine,,,0.8,trimesoyl chloride (265.5),0.05,hexane,hydroxypropyl-β-cyclodextrins,0.2,Na3PO5,0.6,,,,,,,,,60,10,50,69,,3,584.4,1203.66,1420.4,,,7.43,22.8,95.7,96.3,,,10.1016/j.desal.2018.07.023
+Piperazine,,,0.6,trimesoyl chloride (265.5),0.05,hexane,hydroxypropyl-β-cyclodextrins,0.4,Na3PO6,0.6,,,,,,,,,60,10,50,69,,3,584.4,1203.66,1420.4,,,7.77,21.7,96.1,96.7,,,10.1016/j.desal.2018.07.023
+Piperazine,,,0.5,trimesoyl chloride (265.5),0.05,hexane,hydroxypropyl-β-cyclodextrins,0.5,Na3PO7,0.6,,,,,,,,,60,10,50,69,,3,584.4,1203.66,1420.4,,,9.77,21.9,96.5,97.8,,,10.1016/j.desal.2018.07.023
+Piperazine,,,0.4,trimesoyl chloride (265.5),0.05,hexane,hydroxypropyl-β-cyclodextrins,0.6,Na3PO8,0.6,,,,,,,,,60,10,50,69,,3,584.4,1203.66,1420.4,,,10.57,21.1,94.9,96.2,,,10.1016/j.desal.2018.07.023
+Piperazine,,,0.2,trimesoyl chloride (265.5),0.05,hexane,hydroxypropyl-β-cyclodextrins,0.8,Na3PO9,0.6,,,,,,,,,60,10,50,69,,3,584.4,1203.66,1420.4,,,13.4,20.4,83.3,89.6,,,10.1016/j.desal.2018.07.023
+Piperazine,,,0.1,trimesoyl chloride (265.5),0.05,hexane,hydroxypropyl-β-cyclodextrins,0.9,Na3PO10,0.6,,,,,,,,,60,10,50,69,,3,584.4,1203.66,1420.4,,,20.17,17.4,74,81.3,,,10.1016/j.desal.2018.07.023
+Piperazine,Bisphenol F,0.43,1,trimesoyl chloride (265.5),0.225,hexane,,,NaOH,0.07,,,,,,,,,15,3,80,71,30,6,2000,2000,2000,,,15,40,95,97.2,,,10.1016/j.seppur.2019.115718
+Piperazine,Bisphenol F,0.43,1,trimesoyl chloride (265.5),0.225,hexane,Beta-cyclodextrin,0.25,NaOH,0.07,,,,,,,,,15,3,80,71,30,6,2000,2000,2000,,,25,22,80,97,,,10.1016/j.seppur.2019.115718
+Piperazine,,,2,trimesoyl chloride (265.5),0.189,hexane,,,,,,,,,,,,,,,,40,,5,1500,,1500,1500,,,39,,90,61,,doi.org/10.1016/j.jhazmat.2017.09.016
+Piperazine,,,2,trimesoyl chloride (265.5),0.189,hexane,,,,,,,,,,,,,,,,40,,5,,,,,,,,,,,,doi.org/10.1016/j.jhazmat.2017.09.016
+Piperazine,,,2,trimesoyl chloride (265.5),0.189,hexane,,,,,,,,,,,,,,,,40,,5,,,,,,,,,,,,doi.org/10.1016/j.jhazmat.2017.09.016
+Piperazine,,,2,trimesoyl chloride (265.5),0.189,hexane,,,,,,,,,,,,,,,,40,,5,,,,,,,,,,,,doi.org/10.1016/j.jhazmat.2017.09.016
+Piperazine,,,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,30,30,22,76,20,7,2000,2000,2000,,,3.7,36,97,98,,,10.1016/j.desal.2014.10.036
+Piperazine,"2,2′-Oxybis-ethylamine",2,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,30,30,22,76,20,7,2000,2000,2000,,,4,35,85,98,,,10.1016/j.desal.2014.10.036
+Piperazine,"2,2′-Oxybis-ethylamine",0.82,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,30,30,22,76,20,7,2000,2000,2000,,,4.8,33,74,85,,,10.1016/j.desal.2014.10.036
+Piperazine,,,1.6,trimesoyl chloride (265.5),0.35,hexane,sodum dodecyl sulfate,0.15,tetraethylammonium chloride,2.6,,,,,,,,,,,,78,50,3.5,500,2000,,,,7.4,37,17,95,,,10.1016/j.memsci.2014.03.074
+Piperazine,,,1.6,trimesoyl chloride (265.5),0.35,hexane,sodum dodecyl sulfate,0.15,tetrabutylammonium bromide ,4.84,,,,,,,,,,,,78,50,3.5,500,2000,,,,6.3,47,23,98,,,10.1016/j.memsci.2014.03.074
+Piperazine,,,1.6,trimesoyl chloride (265.5),0.35,hexane,sodum dodecyl sulfate,0.15,benzyltrimethylammoniumchloride ,3.16,,,,,,,,,,,,78,50,3.5,500,2000,,,,7.5,45,21,97,,,10.1016/j.memsci.2014.03.074
+Piperazine,,,1.6,trimesoyl chloride (265.5),0.35,hexane,sodum dodecyl sulfate,0.15,benzyltriethylammonium chloride,4,,,,,,,,,,,,78,50,3.5,500,2000,,,,6.6,46,22,97,,,10.1016/j.memsci.2014.03.074
+Piperazine,,,1.6,trimesoyl chloride (265.5),0.35,hexane,sodum dodecyl sulfate,0.15,dodecyltrimethylammonium chloride ,4.28,,,,,,,,,,,,78,50,3.5,500,2000,,,,6.4,32,15,93,,,10.1016/j.memsci.2014.03.074
+Piperazine,Triethylamine,0.3,2.6,trimesoyl chloride (265.5),0.267,Isoparaphin-G,sodum dodecyl sulfate,0.01,,,,,,,,,,,40,5,70,83,60,5,500,,500,,,5.5,63.5,,98.2,,,10.1016/j.desal.2012.09.011
+Piperazine,Triethylamine,0.3,2.6,trimesoyl chloride (265.5),0.26,Isoparaphin-G,sodum dodecyl sulfate,0.01,,,,"naphthalene-1,3,6-trisufonylchloride ",0.07,,,,,,40,5,70,83,60,5,500,,500,,,6.5,60.8,,98.5,,,10.1016/j.desal.2012.09.011
+Piperazine,Triethylamine,0.3,2.6,trimesoyl chloride (265.5),0.253,Isoparaphin-G,sodum dodecyl sulfate,0.01,,,,"naphthalene-1,3,6-trisufonylchloride ",0.14,,,,,,40,5,70,83,60,5,500,,500,,,7.5,57.6,,98.7,,,10.1016/j.desal.2012.09.011
+Piperazine,Triethylamine,0.3,2.6,trimesoyl chloride (265.5),0.246,Isoparaphin-G,sodum dodecyl sulfate,0.01,,,,"naphthalene-1,3,6-trisufonylchloride ",0.21,,,,,,40,5,70,83,60,5,500,,500,,,8.4,56.5,,98.4,,,10.1016/j.desal.2012.09.011
+Piperazine,Triethylamine,0.3,2.6,trimesoyl chloride (265.5),0.239,Isoparaphin-G,sodum dodecyl sulfate,0.01,,,,"naphthalene-1,3,6-trisufonylchloride ",0.28,,,,,,40,5,70,83,60,5,500,,500,,,9.2,53.2,,98,,,10.1016/j.desal.2012.09.011
+Piperazine,Triethylamine,0.3,2.6,trimesoyl chloride (265.5),0.233,Isoparaphin-G,sodum dodecyl sulfate,0.01,,,,"naphthalene-1,3,6-trisufonylchloride ",0.35,,,,,,40,5,70,83,60,5,500,,500,,,10.6,51.5,,97.8,,,10.1016/j.desal.2012.09.011
+Piperazine,,,1.6,trimesoyl chloride (265.5),0.35,hexane,sodum dodecyl sulfate,0.15,tetraethylammonium chloride,2.6,,,,,,,,,20,3,50,84,40,3.5,500,2000,,,,6,40,96,,,,10.1016/j.desal.2012.10.038
+Piperazine,,,1.6,trimesoyl chloride (265.5),0.35,hexane,sodum dodecyl sulfate,0.15,tetrabutyl- ammonium bromide,4.85,,,,,,,,,20,3,50,84,40,3.5,500,2000,,,,7.6,47,97,,,,10.1016/j.desal.2012.10.038
+Piperazine,,,1.6,trimesoyl chloride (265.5),0.35,hexane,sodum dodecyl sulfate,0.15,1-butyl-3-methylimidazolium chloride,2.78,,,,,,,,,20,3,50,84,40,3.5,500,2000,,,,9.1,46,98,,,,10.1016/j.desal.2012.10.038
+Piperazine,,,1,trimesoyl chloride (265.5),0.194,cyclohexane ,sodium hydroxide,0.2,,,,,,,,,,,60,30,70,93,,6,,,710,,,4,,,86,,,10.1016/j.memsci.2012.10.053
+Piperazine,,,1,trimesoyl chloride (265.5),0.194,cyclohexane ,sodium hydroxide,0.2,,,,,, mesoporous silica nanoparticles ,0.02,,,sphere,60,30,70,93,,6,,,710,,,5,,,81,,,10.1016/j.memsci.2012.10.053
+Piperazine,,,1,trimesoyl chloride (265.5),0.194,cyclohexane ,sodium hydroxide,0.2,,,,,, mesoporous silica nanoparticles ,0.03,,,sphere,60,30,70,93,,6,342,602,710,376,,5.4,38,40,80,15,,10.1016/j.memsci.2012.10.053
+Piperazine,,,1,trimesoyl chloride (265.5),0.194,cyclohexane ,sodium hydroxide,0.2,,,,,, mesoporous silica nanoparticles ,0.04,,,sphere,60,30,70,93,,6,,,710,,,5.2,,,75,,,10.1016/j.memsci.2012.10.053
+Piperazine,,,1,trimesoyl chloride (265.5),0.194,cyclohexane ,sodium hydroxide,0.2,,,,,, mesoporous silica nanoparticles ,0.05,,,sphere,60,30,70,93,,6,,,710,,,5.2,,,74,,,10.1016/j.memsci.2012.10.053
+Piperazine,,,1,trimesoyl chloride (265.5),0.194,cyclohexane ,sodium hydroxide,0.2,,,,,, mesoporous silica nanoparticles ,0.07,,,sphere,60,30,70,93,,6,,,710,,,5,,,71,,,10.1016/j.memsci.2012.10.053
+Piperazine,,,1,trimesoyl chloride (265.5),0.1,hexane,,,,,,,,,,,,,60,,,86,,3,,,2000,,,14,,,95,,,10.1016/j.memsci.2008.10.033
+Piperazine,,,1,trimesoyl chloride (265.5),0.15,cyclohexane ,,,,,,,,,,,,,30,,,87,,10,1000,1000,1000,1000,,7.4,31,86,97,18,,10.1016/j.apsusc.2012.05.153
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.2,hexane,,,,,,,,,,,,,60,15,50,88,20,6,1000,1000,,,,4.2,30,90,,,,10.1016/j.memsci.2012.12.043
+Piperazine,N-aminoethyl piperazine propane sulfonate,2,0.35,trimesoyl chloride (265.5),0.2,hexane,,,,,,,,,,,,,60,15,50,88,20,6,1000,1000,,,,4.8,29,92,,,,10.1016/j.memsci.2012.12.043
+Piperazine,N-aminoethyl piperazine propane sulfonate,1,0.35,trimesoyl chloride (265.5),0.2,hexane,,,,,,,,,,,,,60,15,50,88,20,6,1000,1000,,,,6.5,28,91,,,,10.1016/j.memsci.2012.12.043
+Piperazine,N-aminoethyl piperazine propane sulfonate,0.5,0.35,trimesoyl chloride (265.5),0.2,hexane,,,,,,,,,,,,,60,15,50,88,20,6,1000,1000,,,,7.4,27,91,,,,10.1016/j.memsci.2012.12.043
+Piperazine,N-aminoethyl piperazine propane sulfonate,0.33,0.35,trimesoyl chloride (265.5),0.2,hexane,,,,,,,,,,,,,60,15,50,88,20,6,1000,1000,,,,7.5,27,91,,,,10.1016/j.memsci.2012.12.043
+Piperazine,,,0.2,trimesoyl chloride (265.5),0.46,toluene,,,,,,,,,,poly (methyl methacrylate) grafted multi-walled carbon nanotube,0,tube,60,10,80,95,30,10,2000,2000,2000,2000,,4.3,35,92,97,45,,10.1016/j.memsci.2013.04.018
+Piperazine,,,0.2,trimesoyl chloride (265.5),0.46,toluene,,,,,,,,,,poly (methyl methacrylate) grafted multi-walled carbon nanotube,0.8,tube,60,10,80,95,30,10,2000,2000,2000,2000,,7,43,95,98,53,,10.1016/j.memsci.2013.04.018
+Piperazine,,,0.2,trimesoyl chloride (265.5),0.46,toluene,,,,,,,,,,poly (methyl methacrylate) grafted multi-walled carbon nanotube,0.38,tube,60,10,80,95,30,10,2000,2000,2000,2000,,4.9,38,93,98,48,,10.1016/j.memsci.2013.04.018
+Piperazine,,,0.2,trimesoyl chloride (265.5),0.46,toluene,,,,,,,,,,poly (methyl methacrylate) grafted multi-walled carbon nanotube,3.09,tube,60,10,80,95,30,10,2000,2000,2000,2000,,4.7,29,73,85,35,,10.1016/j.memsci.2013.04.018
+Piperazine,,,0.2,trimesoyl chloride (265.5),0.46,toluene,,,,,,,,,,poly (methyl methacrylate) grafted multi-walled carbon nanotube,4.62,tube,60,10,80,95,30,10,2000,2000,2000,2000,,2.5,28,65,74,35,,10.1016/j.memsci.2013.04.018
+Piperazine,,,0.2,trimesoyl chloride (265.5),0.27,Isoparaphin-G,sodum dodecyl sulfate,0.05,,,10,,,,,,,,20,10,80,99,,5,,2000,,,,3.8,,88,,,,10.1016/j.apsusc.2014.11.031
+Piperazine,,,0.2,trimesoyl chloride (265.5),0.27,Isoparaphin-G,sodum dodecyl sulfate,0.05,,,10,,,,,,,,20,10,80,99,,7.5,,2000,,,,4.8,,91,,,,10.1016/j.apsusc.2014.11.031
+Piperazine,,,0.2,trimesoyl chloride (265.5),0.27,Isoparaphin-G,sodum dodecyl sulfate,0.05,,,10,,,,,,,,20,10,80,99,,10,,2000,,,,5,,91,,,,10.1016/j.apsusc.2014.11.031
+Piperazine,,,0.2,trimesoyl chloride (265.5),0.27,Isoparaphin-G,sodum dodecyl sulfate,0.05,,,10,,,,,,,,20,10,80,99,,12,,2000,,,,5.2,,92,,,,10.1016/j.apsusc.2014.11.031
+Piperazine,,,0.2,trimesoyl chloride (265.5),0.27,Isoparaphin-G,sodum dodecyl sulfate,0.05,,,10,,,,,silica nanoparticle,0.05,sphere,20,10,80,99,,5,,2000,,,,4.5,,95,,,,10.1016/j.apsusc.2014.11.031
+Piperazine,,,0.2,trimesoyl chloride (265.5),0.27,Isoparaphin-G,sodum dodecyl sulfate,0.05,,,10,,,,,silica nanoparticle,0.05,sphere,20,10,80,99,,7.5,,2000,,,,5.5,,95,,,,10.1016/j.apsusc.2014.11.031
+Piperazine,,,0.2,trimesoyl chloride (265.5),0.27,Isoparaphin-G,sodum dodecyl sulfate,0.05,,,10,,,,,silica nanoparticle,0.05,sphere,20,10,80,99,,10,,2000,,,,5.4,,95,,,,10.1016/j.apsusc.2014.11.031
+Piperazine,,,0.2,trimesoyl chloride (265.5),0.27,Isoparaphin-G,sodum dodecyl sulfate,0.05,,,10,,,,,silica nanoparticle,0.05,sphere,20,10,80,99,,12,,2000,,,,5.6,,96,,,,10.1016/j.apsusc.2014.11.031
+Piperazine,,,0.88,"Naphthalene-1,3,6-trisulfonylchloride (423.7)",0.037,Isoparaphin-G,sodum dodecyl sulfate,0.01,triethylamine,,,,,,,,,,480,10,95,101,60,5,,,500,,,5.6,,,65.6,,,10.1016/j.memsci.2012.04.043
+Piperazine,,,1.76,"Naphthalene-1,3,6-trisulfonylchloride (423.7)",0.037,Isoparaphin-G,sodum dodecyl sulfate,0.01,triethylamine,,,,,,,,,,480,10,95,101,60,5,,,500,,,3.7,,,70,,,10.1016/j.memsci.2012.04.043
+Piperazine,,,2.64,"Naphthalene-1,3,6-trisulfonylchloride (423.7)",0.037,Isoparaphin-G,sodum dodecyl sulfate,0.01,triethylamine,,,,,,,,,,480,10,95,101,60,5,,,500,,,4.9,,,62.5,,,10.1016/j.memsci.2012.04.043
+Piperazine,,,1.76,"Naphthalene-1,3,6-trisulfonylchloride (423.7)",0.04,Isoparaphin-G,sodum dodecyl sulfate,0.01,triethylamine,,,,,,,,,,480,10,95,101,60,5,,,500,,,2.9,,,77.5,,,10.1016/j.memsci.2012.04.043
+Piperazine,,,1.76,"Naphthalene-1,3,6-trisulfonylchloride (423.7)",0.043,Isoparaphin-G,sodum dodecyl sulfate,0.01,triethylamine,,,,,,,,,,480,10,95,101,60,5,,,500,,,2.1,,,78,,,10.1016/j.memsci.2012.04.043
+Piperazine,,,1.76,"Naphthalene-1,3,6-trisulfonylchloride (423.7)",0.04,Isoparaphin-G,sodum dodecyl sulfate,0.01,triethylamine,,,,,,,,,,480,10,95,101,60,5,,,500,,,4.5,,,83.5,,,10.1016/j.memsci.2012.04.043
+Piperazine,,,1.76,"Naphthalene-1,3,6-trisulfonylchloride (423.7)",0.04,Isoparaphin-G,sodum dodecyl sulfate,0.01,triethylamine,,,,,,,,,,480,10,95,101,60,5,,,500,,,4.1,,,80.2,,,10.1016/j.memsci.2012.04.043
+Piperazine,,,1.76,"Naphthalene-1,3,6-trisulfonylchloride (423.7)",0.04,Isoparaphin-G,sodum dodecyl sulfate,0.01,triethylamine,,,thylene glycol monomethyl ether,,,,,,,480,10,95,101,60,5,500,500,500,500,,5.7,50.5,70.8,86.5,42.5,,10.1016/j.memsci.2012.04.043
+Piperazine,,,1.76,"Naphthalene-1,3,6-trisulfonylchloride (423.7)",0.04,Isoparaphin-G,sodum dodecyl sulfate,0.01,triethylamine,,,thylene glycol monomethyl ether,,,,,,,480,10,95,101,60,5,,,500,,,6.1,,,82,,,10.1016/j.memsci.2012.04.043
+Piperazine,,,0.69,trimesoyl chloride (265.5),0.3,toluene,,,,,11.5,,,,,,,,120,15,60,103,30,6,1000,,1000,,,3.5,38,,94,,,10.1039/C5RA18640D
+Piperazine,,,2,trimesoyl chloride (265.5),0.15,hexane,triethylamine,0.4,,,,,,,,,,,60,,,105,17,3,2000,2000,2000,,,8.3,33.8,94.7,96.7,,,10.2166/wrd.2014.059
+Piperazine,,,2,trimesoyl chloride (265.5),0.15,hexane,triethylamine,0.4,dimethyl sulfoxide,2,,,,,,,,,60,,,105,17,3,2000,2000,2000,,,9,32.1,93.9,96.1,,,10.2166/wrd.2014.059
+Piperazine,,,2,trimesoyl chloride (265.5),0.15,hexane,triethylamine,0.4,dimethyl sulfoxide,4,,,,,,,,,60,,,105,17,3,2000,2000,2000,,,10.5,33.1,94.3,96.1,,,10.2166/wrd.2014.059
+Piperazine,,,2,trimesoyl chloride (265.5),0.15,hexane,triethylamine,0.4,dimethyl sulfoxide,6,,,,,,,,,60,,,105,17,3,2000,2000,2000,,,12.2,31.9,93.4,95.8,,,10.2166/wrd.2014.059
+Piperazine,,,2,trimesoyl chloride (265.5),0.15,hexane,triethylamine,0.4,dimethyl sulfoxide,8,,,,,,,,,60,,,105,17,3,2000,2000,2000,,,12.7,23.9,81.7,87.2,,,10.2166/wrd.2014.059
+Piperazine,,,2,trimesoyl chloride (265.5),0.15,hexane,triethylamine,0.4,dimethyl sulfoxide,10,,,,,,,,,60,,,105,17,3,2000,2000,2000,,,13.2,17.8,72.6,81.7,,,10.2166/wrd.2014.059
+Piperazine,,,1,trimesoyl chloride (265.5),0.11,hexane,,,,,,,,,,,,,10,5,70,108,20,10,1000,,1000,,,7.8,15,,75,,,10.1016/j.memsci.2010.12.048
+Piperazine,,,1,trimesoyl chloride (265.5),0.11,hexane,,,,,,,,,,,,,20,5,70,108,20,10,1000,,1000,,,7.5,17,,78,,,10.1016/j.memsci.2010.12.048
+Piperazine,,,1,trimesoyl chloride (265.5),0.11,hexane,,,,,,,,,,,,,40,5,70,108,20,10,1000,,1000,,,6,19,,79,,,10.1016/j.memsci.2010.12.048
+Piperazine,,,1,trimesoyl chloride (265.5),0.11,hexane,,,,,,,,,,,,,60,5,70,108,20,10,1000,,1000,,,5.8,20,,88,,,10.1016/j.memsci.2010.12.048
+Piperazine,,,1,trimesoyl chloride (265.5),0.11,hexane,,,,,,,,,,,,,70,5,70,108,20,10,1000,,1000,,,5,25,,85,,,10.1016/j.memsci.2010.12.048
+Piperazine,,,1,trimesoyl chloride (265.5),0.11,hexane,,,,,,,,,,,,,150,5,70,108,20,10,1000,,1000,,,4.1,32,,72,,,10.1016/j.memsci.2010.12.048
+Piperazine,,,0.75,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,60,5,60,96,100,5,584.4,,1420.4,952.11,1109.8,5.6,47,,97.8,78.9,71,10.1016/j.memsci.2018.11.013
+Piperazine,"3,5-diaminobenzoic acid",2.33,0.75,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,60,5,60,96,100,5,,,,952.11,,7.4,,,,65,,10.1016/j.memsci.2018.11.013
+Piperazine,"3,5-diaminobenzoic acid",1,0.75,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,60,5,60,96,100,5,584.4,,1420.4,952.11,1109.8,6.4,48.7,,98,32,25.8,10.1016/j.memsci.2018.11.013
+Piperazine,"3,5-diaminobenzoic acid",0.43,0.75,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,60,5,60,96,100,5,,,,952.11,,1,,,,28,,10.1016/j.memsci.2018.11.013
+Piperazine,,,1,trimesoyl chloride (265.5),0.15,hexane,triethylamine,0.5,sodium hydroxide,0.15,,,,,,,,,30,2,22,97,300,6.9,116.88,,284.04,,221.96,10,71,,95,,25,10.1021/acs.est.8b01040
+Piperazine,,,1,trimesoyl chloride (265.5),0.15,hexane,triethylamine,0.5,sodium hydroxide,0.15,,,,,,,,,30,2,22,97,300,6.9,584.4,,1420.2,,1109.8,10,65,,95,,40,10.1021/acs.est.8b01040
+Piperazine,"4,4′-bipiperidyl dihydrochloride",1,1,trimesoyl chloride (265.5),0.15,hexane,triethylamine,0.5,sodium hydroxide,0.15,,,,,,,,,30,2,22,97,300,6.9,116.88,,284.04,,221.96,12.5,50,,88,,10,10.1021/acs.est.8b01040
+Piperazine,"4,4′-bipiperidyl dihydrochloride",1,1,trimesoyl chloride (265.5),0.15,hexane,triethylamine,0.5,sodium hydroxide,0.15,,,,,,,,,30,2,22,97,300,6.9,584.4,,1420.2,,1109.8,12.5,30,,90,,12.5,10.1021/acs.est.8b01040
+Piperazine,,,1,trimesoyl chloride (265.5),0.4,hexane,,,,,11,,,,,,,,120,5,70,98,150,6,2000,2000,2000,,,10.3,16.19,98.4,98.4,,,10.1021/acs.est.8b04102
+Piperazine,,,1,trimesoyl chloride (265.5),0.4,hexane,,,,,11,,,cellulose nanocrystal,0.001,,,rodlike,120,5,70,98,150,6,2000,2000,2000,,,12.86,18.13,98.5,98.6,,,10.1021/acs.est.8b04102
+Piperazine,,,1,trimesoyl chloride (265.5),0.4,hexane,,,,,11,,,cellulose nanocrystal,0.005,,,rodlike,120,5,70,98,150,6,2000,2000,2000,,,14.1,20.67,98.6,98.7,,,10.1021/acs.est.8b04102
+Piperazine,,,1,trimesoyl chloride (265.5),0.4,hexane,,,,,11,,,cellulose nanocrystal,0.02,,,rodlike,120,5,70,98,150,6,2000,2000,2000,,,16.45,22.7,98.7,98.7,,,10.1021/acs.est.8b04102
+Piperazine,,,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,60,10,90,12,20,6,,,1000,,,1.04,,,40,,,10.1039/C9EW00963A
+Piperazine,,,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,cellulose nanocrystal,0.01,,,rodlike,60,10,90,12,20,6,,,1000,,,2.17,,,65,,,10.1039/C9EW00963A
+Piperazine,,,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,cellulose nanocrystal,0.05,,,rodlike,60,10,90,12,20,6,,,1000,,,2.21,,,75,,,10.1039/C9EW00963A
+Piperazine,,,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,cellulose nanocrystal,0.1,,,rodlike,60,10,90,12,20,6,,,1000,,,3.83,,,72.5,,,10.1039/C9EW00963A
+Piperazine,,,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,60,10,90,12,20,8,,,1000,,,1.09,,,45,,,10.1039/C9EW00963A
+Piperazine,,,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,cellulose nanocrystal,0.01,,,rodlike,60,10,90,12,20,8,,,1000,,,1.88,,,73,,,10.1039/C9EW00963A
+Piperazine,,,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,cellulose nanocrystal,0.05,,,rodlike,60,10,90,12,20,8,,,1000,,,2.19,,,83,,,10.1039/C9EW00963A
+Piperazine,,,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,cellulose nanocrystal,0.1,,,rodlike,60,10,90,12,20,8,,,1000,,,3.28,,,80,,,10.1039/C9EW00963A
+Piperazine,,,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,60,10,90,12,20,10,1000,,1000,1000,1000,1.13,40,,50,45,41,10.1039/C9EW00963A
+Piperazine,,,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,cellulose nanocrystal,0.01,,,rodlike,60,10,90,12,20,10,1000,,1000,1000,1000,1.83,50,,80,68,60,10.1039/C9EW00963A
+Piperazine,,,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,cellulose nanocrystal,0.05,,,rodlike,60,10,90,12,20,10,1000,,1000,1000,1000,2.25,62.5,,92.5,80,71.03,10.1039/C9EW00963A
+Piperazine,,,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,cellulose nanocrystal,0.1,,,rodlike,60,10,90,12,20,10,1000,,1000,1000,1000,3.3,50,,87.5,67.5,60,10.1039/C9EW00963A
+Piperazine,,,1,trimesoyl chloride (265.5),0.2,hexane,sodium phosphate,,,,11,,,,,,,,120,10,60,27,150,6,2000,2000,2000,2000,,12.3,18.6,98.5,99,18.8,,10.1016/j.cej.2018.10.147
+Piperazine,,,1,trimesoyl chloride (265.5),0.2,hexane,sodium phosphate,,,,11,,,cellulose nanocrystal,0.005,,,rodlike,120,10,60,27,150,6,2000,2000,2000,2000,,14.5,19,98.1,98.5,19,,10.1016/j.cej.2018.10.147
+Piperazine,,,1,trimesoyl chloride (265.5),0.2,hexane,sodium phosphate,,,,11,,,cellulose nanocrystal,0.02,,,rodlike,120,10,60,27,150,6,2000,2000,2000,2000,,18.5,,,,,,10.1016/j.cej.2018.10.147
+Piperazine,,,1,trimesoyl chloride (265.5),0.2,hexane,sodium phosphate,,,,11,,,cellulose nanocrystal,0.1,,,rodlike,120,10,60,27,150,6,2000,2000,2000,2000,,20.5,21.5,97.5,98,21.5,,10.1016/j.cej.2018.10.147
+Piperazine,,,1,trimesoyl chloride (265.5),0.2,hexane,sodium phosphate,,,,11,,,cellulose nanocrystal,0.01,,,rodlike,120,10,60,27,150,6,2000,2000,2000,2000,,16.5,20.3,98,98.3,20,,10.1016/j.cej.2018.10.147
+Piperazine,,,1,trimesoyl chloride (265.5),0.2,hexane,sodium phosphate,,,,11,,,cellulose nanocrystal,0.05,,,rodlike,120,10,60,27,150,6,2000,2000,2000,2000,,18.6,21.2,97.8,98.1,21,,10.1016/j.cej.2018.10.147
+Piperazine,,,2,trimesoyl chloride (265.5),0.5,hexane,sodium phosphate,0.6,,,,,,,,,,,60,10,50,21,,4.8,2000,,2000,,,16,21,,98.75,,,10.1039/C9EN01367A
+Piperazine,,,2,trimesoyl chloride (265.5),0.5,hexane,sodium phosphate,0.6,,,,,,cellulose nanocrystal/Ag composite,0.005,,,rodlike,60,10,50,21,,4.8,2000,,2000,,,19,22.5,,98.8,,,10.1039/C9EN01367A
+Piperazine,,,2,trimesoyl chloride (265.5),0.5,hexane,sodium phosphate,0.6,,,,,,cellulose nanocrystal/Ag composite,0.01,,,rodlike,60,10,50,21,,4.8,2000,,2000,,,25,23.4,,99.1,,,10.1039/C9EN01367A
+Piperazine,,,2,trimesoyl chloride (265.5),0.5,hexane,sodium phosphate,0.6,,,,,,cellulose nanocrystal/Ag composite,0.02,,,rodlike,60,10,50,21,,4.8,2000,,2000,,,22.1,22.5,,98.9,,,10.1039/C9EN01367A
+Piperazine,,,2,trimesoyl chloride (265.5),0.5,hexane,sodium phosphate,0.6,,,,,,cellulose nanocrystal/Ag composite,0.04,,,rodlike,60,10,50,21,,4.8,2000,,2000,,,22,21.5,,98.6,,,10.1039/C9EN01367A
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.3,hexane,,,,,12,,,,,,,,60,15,50,100,35,6,1000,,1000,,,5.75,32.5,,97.5,,,10.1039/C6TA00005C
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.3,hexane,,,,,12,,,zwitterionic polyelectrolyte nanoparticles,0.1,,,rodlike,60,15,50,100,35,6,1000,,1000,,,10.97,10,,98,,,10.1039/C6TA00005C
+Piperazine,,,1,trimesoyl chloride (265.5),0.225,hexane,,,,,,,,multi-walled carbon nanotube-COOH,0.01,,,tube,15,5,80,102,50,6,2000,2000,2000,,,6.2,34,93.7,96.6,,,10.1021/acsami.6b05545
+Piperazine,,,1,trimesoyl chloride (265.5),0.225,hexane,,,,,,,,multi-walled carbon nanotube-OH,0.01,,,tube,15,5,80,102,50,6,2000,2000,2000,,,6.9,35.3,97.1,97.6,,,10.1021/acsami.6b05545
+Piperazine,,,1,trimesoyl chloride (265.5),0.225,hexane,,,,,,,,multi-walled carbon nanotube-NH2,0.01,,,tube,15,5,80,102,50,6,2000,2000,2000,,,5.3,35.1,95,96.8,,,10.1021/acsami.6b05545
+Piperazine,,,2,trimesoyl chloride (265.5),0.225,hexane,,,,,,,,,,,,,30,5,60,106,20,6,1000,1000,1000,,,5.43,,,86,,,10.1016/j.jtice.2017.11.033
+Piperazine,,,2,trimesoyl chloride (265.5),0.225,hexane,,,,,,,,ZIF-8,0.01,,,rhombic dodecahedron,30,5,60,106,20,6,1000,1000,1000,,,6.22,,,95,,,10.1016/j.jtice.2017.11.033
+Piperazine,,,2,trimesoyl chloride (265.5),0.225,hexane,,,,,,,,ZIF-8,0.5,,,rhombic dodecahedron,30,5,60,106,20,6,1000,1000,1000,,,9.17,,,80,,,10.1016/j.jtice.2017.11.033
+Piperazine,,,1,trimesoyl chloride (265.5),0.15,Isoparaphin-G,sodium phosphate,1,,,,,,,,,,,120,5,60,123,30,5,500,,500,,,6.78,38.5,,95,,,10.1021/acsami.9b15811
+Piperazine,3-(4-(2-((4-aminophenyl)amino)ethyl)morpholino-4-ium)propane-1-sulfonate,0.1,1,trimesoyl chloride (265.5),0.15,Isoparaphin-G,sodium phosphate,1,,,,,,,,,,,120,5,60,123,30,5,500,,500,,,7.3,35,,94,,,10.1021/acsami.9b15811
+Piperazine,3-(4-(2-((4-aminophenyl)amino)ethyl)morpholino-4-ium)propane-1-sulfonate,0.2,1,trimesoyl chloride (265.5),0.15,Isoparaphin-G,sodium phosphate,1,,,,,,,,,,,120,5,60,123,30,5,500,,500,,,8.2,28,,94,,,10.1021/acsami.9b15811
+Piperazine,3-(4-(2-((4-aminophenyl)amino)ethyl)morpholino-4-ium)propane-1-sulfonate,0.4,1,trimesoyl chloride (265.5),0.15,Isoparaphin-G,sodium phosphate,1,,,,,,,,,,,120,5,60,123,30,5,500,,500,,,9.5,25,,95,,,10.1021/acsami.9b15811
+Piperazine,3-(4-(2-((4-aminophenyl)amino)ethyl)morpholino-4-ium)propane-1-sulfonate,0.6,1,trimesoyl chloride (265.5),0.15,Isoparaphin-G,sodium phosphate,1,,,,,,,,,,,120,5,60,123,30,5,500,,500,,,9.82,22.5,,95,,,10.1021/acsami.9b15811
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.2,hexane,,,,,,,,,,,,,120,20,50,128,35,6,3000,3000,,,,4.4,20,99.5,,,,10.1016/j.memsci.2010.10.060
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.2,hexane,polyvinyl alcoho (MW 2500),0.012,,,,,,,,,,,120,20,50,128,35,6,3000,3000,,,,5.7,17,98,,,,10.1016/j.memsci.2010.10.060
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.2,hexane,polyvinyl alcoho (MW 2500),0.024,,,,,,,,,,,120,20,50,128,35,6,3000,3000,,,,7.1,17,97.6,,,,10.1016/j.memsci.2010.10.060
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.2,hexane,polyvinyl alcoho (MW 2500),0.036,,,,,,,,,,,120,20,50,128,35,6,3000,3000,,,,8.1,17,96.4,,,,10.1016/j.memsci.2010.10.060
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.2,hexane,polyvinyl alcoho (MW 2500),0.048,,,,,,,,,,,120,20,50,128,35,6,3000,3000,,,,10.6,16,95.9,,,,10.1016/j.memsci.2010.10.060
+Piperazine,,,2,trimesoyl chloride (265.5),0.15,hexane,triethylamine,2,,,,,,,,,,,30,15,60,124,,7,584,1200,1420,952,,8,35,98,99,93,,10.1016/j.memsci.2014.04.040
+Piperazine,,,2,trimesoyl chloride (265.5),0.2,hexane,triethylamine,2,camphorsulfonic acid,4.6,,,,,,,,,60,2,60,110,,6,500,,500,,,2.9,16.4,,83.4,,,10.1016/j.colsurfa.2020.125971
+Piperazine,,,2,trimesoyl chloride (265.5),0.2,hexane,triethylamine,2,camphorsulfonic acid,4.6,,,,ZIF-8,0.01,,,rhombic dodecahedron,60,2,60,110,,6,500,,500,,,4.17,18,,89,,,10.1016/j.colsurfa.2020.125971
+Piperazine,,,2,trimesoyl chloride (265.5),0.2,hexane,triethylamine,2,camphorsulfonic acid,4.6,,,,polydopamine modified ZIF-8,0.01,,,rhombic dodecahedron,60,2,60,110,,6,500,,500,,,4.81,25,,89.9,,,10.1016/j.colsurfa.2020.125971
+Piperazine,,,0.1,trimesoyl chloride (265.5),0.15,heptane,,,,,,,,,,,,,100,25,22,109,,2,,,1000,,,10.45,,,90,,,10.1039/C6RA21192E
+Piperazine,,,0.1,trimesoyl chloride (265.5),0.15,heptane,,,,,,,,g-C3N4,0.0025,,,sheet,100,25,22,109,,2,,,1000,,,18.8,,,84,,,10.1039/C6RA21192E
+Piperazine,,,1,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,60,15,60,111,20,6,2000,2000,2000,2000,,4.8,37.5,96,95.9,77.5,,10.1021/acsami.0c13386
+Piperazine,,,1,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,"carbon dots 
+grafted with hyperbranched zwitterions-0.6k",0.6,,,3D dimensional network,60,15,60,111,20,6,2000,2000,2000,2000,,7.5,37,96,97,75,,10.1021/acsami.0c13386
+Piperazine,,,1,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,"carbon dots 
+grafted with hyperbranched zwitterions-1.8kDa",0.6,,,3D dimensional network,60,15,60,111,20,6,2000,2000,2000,2000,,9,37.5,97,97,78,,10.1021/acsami.0c13386
+Piperazine,,,1,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,"carbon dots 
+grafted with hyperbranched zwitterions-10kDa",0.6,,,3D dimensional network,60,15,60,111,20,6,2000,2000,2000,2000,,11.4,30,97,97,81.25,,10.1021/acsami.0c13386
+Piperazine,,,2,trimesoyl chloride (265.5),0.05,heptane,,,,,,,,,,,,,30,5,50,112,20,7,1000,,1000,,,4.71,33.5,89,,,,10.1016/j.seppur.2016.04.024
+Piperazine,,,2,trimesoyl chloride (265.5),0.05,heptane,,,,,,,,Al(OH)3 nanoparticle,1.5,,,sphere,30,15,50,112,20,7,1000,,1000,,,6.57,27.5,95,,,,10.1016/j.seppur.2016.04.024
+Piperazine,,,2,trimesoyl chloride (265.5),0.05,heptane,,,,,,,,Al(OH)3 nanoparticle,1.5,,,sphere,30,15,50,112,20,2,1000,,1000,,,13,,86,,,,10.1016/j.seppur.2016.04.024
+Piperazine,,,2,trimesoyl chloride (265.5),0.05,heptane,,,,,,,,Al(OH)3 nanoparticle,1.5,,,sphere,30,15,50,112,20,4,1000,,1000,,,9,,91.5,,,,10.1016/j.seppur.2016.04.024
+Piperazine,,,2,trimesoyl chloride (265.5),0.3,hexane,,,,,,,,,,,,,60,5,70,113,,5,2500,2500,2500,,,1.26,75.3,97.5,96.62,,,10.1016/j.desal.2019.114125
+Piperazine,,,2,trimesoyl chloride (265.5),0.3,hexane,,,,,,,,sulfonated graphene oxide,0.05,,,sheet,60,5,70,113,,5,,,2500,,,1.68,,,97,,,10.1016/j.desal.2019.114125
+Piperazine,,,2,trimesoyl chloride (265.5),0.3,hexane,,,,,,,,sulfonated graphene oxide,0.1,,,sheet,60,5,70,113,,5,,,2500,,,1.79,,,96,,,10.1016/j.desal.2019.114125
+Piperazine,,,2,trimesoyl chloride (265.5),0.3,hexane,,,,,,,,sulfonated graphene oxide,0.3,,,sheet,60,5,70,113,,5,2500,2500,2500,,,2.36,77.6,95,96.45,,,10.1016/j.desal.2019.114125
+Piperazine,,,2,trimesoyl chloride (265.5),0.3,hexane,,,,,,,,sulfonated graphene oxide,0.5,,,sheet,60,5,70,113,,5,,,2500,,,2.18,,,95,,,10.1016/j.desal.2019.114125
+Piperazine,,,0.2,trimesoyl chloride (265.5),0.225,hexane,,,,,,,,,,,,,60,3,70,114,20,4,1500,1500,1500,1500,,14.5,35,94.5,99,60,,10.1039/C9TA02299F
+Piperazine,,,0.2,trimesoyl chloride (265.5),0.225,hexane,,,,,,,,UiO-66-NH2,0.0039,,,octahedral,60,3,70,114,20,4,1500,1500,1500,1500,,18,30,94,98.4,55,,10.1039/C9TA02299F
+Piperazine,,,0.2,trimesoyl chloride (265.5),0.225,hexane,,,,,,,,UiO-66-NH2,0.006,,,octahedral,60,3,70,114,20,4,1500,1500,1500,1500,,21.5,25,91,98.2,55,,10.1039/C9TA02299F
+Piperazine,,,0.2,trimesoyl chloride (265.5),0.225,hexane,,,,,,,,UiO-66-NH2,0.0079,,,octahedral,60,3,70,114,20,4,1500,1500,1500,1500,,27,23,90.5,97.8,54,,10.1039/C9TA02299F
+Piperazine,,,0.2,trimesoyl chloride (265.5),0.225,hexane,,,,,,,,UiO-66-NH2,0.012,,,octahedral,60,3,70,114,20,4,1500,1500,1500,1500,,30.8,21,90.5,97.5,53.8,,10.1039/C9TA02299F
+Piperazine,,,0.1,trimesoyl chloride (265.5),0.1,heptane,,,,,,,,,,,,,120,15,60,115,,2,,,100,,,7.5,,,90.2,,,10.1016/j.memsci.2018.02.010
+Piperazine,,,0.1,trimesoyl chloride (265.5),0.1,heptane,,,,,,,,graphene quantum dots,0.2,,,dot,120,15,60,115,,2,,,100,,,29,,,70,,,10.1016/j.memsci.2018.02.010
+Piperazine,,,0.1,trimesoyl chloride (265.5),0.1,heptane,,,,,,,,graphene quantum dots,0.39,,,dot,120,15,60,115,,2,,,100,,,51,,,40.6,,,10.1016/j.memsci.2018.02.010
+Piperazine,,,1,trimesoyl chloride (265.5),0.2,cyclohexane,,,,,,,,,0.015,,,,60,30,70,116,,6,292.2,601.83,710.2,476.055,,3,31.5,85,95,64,,10.1016/j.memsci.2018.07.044
+Piperazine,,,1,trimesoyl chloride (265.5),0.2,cyclohexane,,,,,,,,carboxylic carbon quantum dots,0.015,,,dot,60,30,70,116,,6,292.2,601.83,710.2,476.055,,6.08,20,82,94,50,,10.1016/j.memsci.2018.07.044
+Piperazine,,,1,trimesoyl chloride (265.5),0.2,cyclohexane,,,,,,,,amino carbon quantum dots,0.015,,,dot,60,30,70,116,,6,292.2,601.83,710.2,476.055,,5.25,20,88,93,76,,10.1016/j.memsci.2018.07.044
+Piperazine,,,1,trimesoyl chloride (265.5),0.2,cyclohexane,,,,,,,,sulfonated carbon quantum dots,0.015,,,dot,60,30,70,116,,6,292.2,601.83,710.2,476.055,,7.02,10,84,94.5,32,,10.1016/j.memsci.2018.07.044
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.3,hexane,,,,,,,,,,,,,60,10,70,117,100,4,1000,,1000,,,6.25,27,,93.5,,,10.1021/acsami.6b14412
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.3,hexane,,,,,,,,poly (sodium 4-styrenesulfonate) modified ZIF-8,0.05,,,rhombic dodecahedron,60,10,70,117,100,4,1000,,1000,,,13,18,,93,,,10.1021/acsami.6b14412
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.3,hexane,,,,,,,,poly (sodium 4-styrenesulfonate) modified ZIF-8,0.1,,,rhombic dodecahedron,60,10,70,117,100,4,1000,,1000,,,15.5,12,,92.5,,,10.1021/acsami.6b14412
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.3,hexane,,,,,,,,poly (sodium 4-styrenesulfonate) modified ZIF-8,0.2,,,rhombic dodecahedron,60,10,70,117,100,4,1000,,1000,,,12.5,12,,87.4,,,10.1021/acsami.6b14412
+Piperazine,,,1.5,trimesoyl chloride (265.5),0.3,hexane,,,,,,,,,,,,,60,10,60,118,,4,2000,2000,2000,2000,2000,3.13,14,81,78,25,16,10.1016/j.memsci.2020.118064
+Piperazine,,,1.5,trimesoyl chloride (265.5),0.3,hexane,,,,,,,,,,,,,60,10,60,132,,4,2000,2000,2000,2000,2000,1.5,8,85,82,83,55,10.1016/j.memsci.2020.118064
+Piperazine,,,1.5,trimesoyl chloride (265.5),0.3,hexane,,,,,,,,GO,0.01,,,sheet,60,10,60,118,,4,2000,2000,2000,2000,2000,1.5,40,94,90.5,88,48,10.1016/j.memsci.2020.118064
+Piperazine,,,1.5,trimesoyl chloride (265.5),0.3,hexane,,,,,,,,GO,0.01,,,sheet,60,10,60,132,,4,2000,2000,2000,2000,2000,2.25,38,86,82.5,74,52,10.1016/j.memsci.2020.118064
+Piperazine,,,2,trimesoyl chloride (265.5),0.225,hexane,triethylamine,4,,,,,,UiO-66,,,,octahedral,10,1,60,119,,6,1000,1000,1000,,,7.92,25,92.5,97.5,,,10.1021/acsami.9b17212
+Piperazine,,,2,trimesoyl chloride (265.5),0.225,hexane,triethylamine,4,,,,,,UiO-66-NH2,,,,octahedral,10,1,60,119,,6,1000,1000,1000,,,13.5,21,95.5,95.5,,,10.1021/acsami.9b17212
+Piperazine,,,2,trimesoyl chloride (265.5),0.225,hexane,triethylamine,4,,,,,,,,UiO-66,0.2,octahedral,10,1,60,119,,6,1000,1000,1000,,,14.58,20,90,97.5,,,10.1021/acsami.9b17212
+Piperazine,,,2,trimesoyl chloride (265.5),0.225,hexane,triethylamine,4,,,,,,,,UiO-66-NH2,0.2,octahedral,10,1,60,119,,6,1000,1000,1000,,,12,27.5,97.5,98,,,10.1021/acsami.9b17212
+Piperazine,,,0.1,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,tannic acid modified MoS2,0.0125,,,sheet,120,30,60,120,,6,,,1000,,,15.33,,,98,,,10.1016/j.memsci.2019.117316
+Piperazine,,,0.1,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,tannic acid modified MoS2,0.025,,,sheet,120,30,60,120,,6,1000,1000,1000,1000,1000,17,30,98,98.5,75,65,10.1016/j.memsci.2019.117316
+Piperazine,,,0.1,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,tannic acid modified MoS2,0.05,,,sheet,120,30,60,120,,6,,,1000,,,12.17,,,97.5,,,10.1016/j.memsci.2019.117316
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.3,hexane,,,,,,,,,,,,,60,15,50,122,35,6,1000,1000,1000,1000,,3.8,35,96,98,42,,10.1016/j.memsci.2018.11.019
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.3,hexane,,,,,,,,zwitterionic dopamine nanoparticles,0.2,,,cube,60,15,50,122,35,6,1000,1000,1000,1000,,14.67,20,96.5,97.5,45,,10.1016/j.memsci.2018.11.019
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.3,hexane,,,,,12,,,,,,,,60,15,50,125,35,6,1000,1000,1000,1000,,5.5,30,84,98,48,,10.1016/j.jiec.2018.05.032
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.3,hexane,,,,,12,,,polyelectrolyte nanoparticles,0.1,,,rodlike,60,15,50,125,35,6,1000,1000,1000,1000,,9.67,20,82,97.5,47.5,,10.1016/j.jiec.2018.05.032
+Piperazine,,,1,trimesoyl chloride (265.5),0.4,hexane, Triethylamine (TEA),3,camphor sulfonic acid ,3,,,,multi-walled carbon nanotube-NH2,0.001,,,tube,,,5,134,58,10,1000,,1000,,,,21,,80,,,10.1016/j.desal.2016.05.002
+Piperazine,,,1,trimesoyl chloride (265.5),0.4,hexane, Triethylamine (TEA),3,camphor sulfonic acid ,3,,,,multi-walled carbon nanotube-NH2,0.002,,,tube,,,5,134,58,10,1000,,1000,,,,28,,81,,,10.1016/j.desal.2016.05.002
+Piperazine,,,1,trimesoyl chloride (265.5),0.4,hexane, Triethylamine (TEA),3,camphor sulfonic acid ,3,,,,multi-walled carbon nanotube-NH2,0.005,,,tube,,,5,134,58,10,1000,,1000,,,,36,,96,,,10.1016/j.desal.2016.05.002
+Piperazine,,,1,trimesoyl chloride (265.5),0.4,hexane, Triethylamine (TEA),3,camphor sulfonic acid ,3,,,,multi-walled carbon nanotube-NH2,0.01,,,tube,,,5,134,58,10,1000,,1000,,,,25,,95,,,10.1016/j.desal.2016.05.002
+Piperazine,,,1.5,trimesoyl chloride (265.5),0.225,hexane,,,,,,,,,,,,,45,8,70,137,140,6,2000,2000,2000,,,9,55,90,96,,,10.1016/j.memsci.2017.12.040
+Ethanimine,,,1,trimesoyl chloride (265.5),1.156,toluene,,,,,,,,,,,,,120,,25,63,,4,1000,1000,1000,,,9.5,45,78,50,,,10.1016/j.memsci.2008.09.021
+Ethanimine,,,1,terephthaloyl chloride (203.02),1.156,toluene,,,,,,,,,,,,,120,,25,63,,4,1000,1000,1000,,,3.1,60,91,75,10,,10.1016/j.memsci.2008.09.021
+Ethanimine,,,3,trimesoyl chloride (265.5),0.1,hexane,,,,,,,,,,,,,60,5,22,126,148,10,1000,,,1000,,6.4,82.5,,97.5,,,10.1021/acssuschemeng.6b01299
+Diethylenetriamine,,,0.2,trimesoyl chloride (265.5),0.2,hexane,,,,,,,,,,,,,120,,25,1,,2,1000,1000,1000,1000,,3.35,,83,86,,,10.1016/j.desal.2013.11.035
+Diethylenetriamine,,,1,trimesoyl chloride (265.5),1.156,toluene,,,,,,,,,,,,,120,,25,63,,4,1000,1000,1000,,,4.5,32.5,85,60,,,10.1016/j.memsci.2008.09.021
+Diethylenetriamine,,,1,terephthaloyl chloride (203.02),1,hexane,poly(ethyleneglycol) ,1,,,,,,,,,,,120,720,22,49,10,13.8,2000,,,2000,,6,94.2,,,,,10.1002/app.2282
+Diethylenetriamine ,,,1.2,"Naphthalene-1,3,6-trisulfonylchloride (423.7)",0.32,Isoparaphin-G,4-dimethylaminopyridine,0.12,,,,,,,,,,,60,3,90,138,,10,1000,1000,1000,1000,,,2,89,96,,,10.1016/j.seppur.2020.116528
+Triethylenetetramine,,,0.2,trimesoyl chloride (265.5),0.2,hexane,,,,,,,,,,,,,120,,25,1,,2,1000,1000,1000,1000,,4.35,,81,85,,,10.1016/j.desal.2013.11.035
+Triethylenetetramine,,,3,trimesoyl chloride (265.5),0.29,heptane,,,,,,,,,,,,,120,30,22,130,59,2,1000,1000,1000,1000,,,27,45,54,,,10.1021/acs.iecr.5b01950
+Tetraethylenepentamine,,,0.2,trimesoyl chloride (265.5),0.2,hexane,,,,,,,,,,,,,120,,25,1,,2,1000,1000,1000,1000,,5.1,,78,81,,,10.1016/j.desal.2013.11.035
+Tetraethylenepentamine,,,1,trimesoyl chloride (265.5),0.5,hexane,,,,,,,,,,,,,120,30,22,80,50,2,,1000,1000,,,9.1,,77,84,80,,10.1016/j.memsci.2013.10.026
+Tetraethylenepentamine,,,1,trimesoyl chloride (265.5),0.5,hexane,calcium chloride,1,,,,,,,,,,,120,30,22,80,50,2,,1000,1000,,,16.3,,76,83,,,10.1016/j.memsci.2013.10.026
+Tetraethylenepentamine,,,1,trimesoyl chloride (265.5),0.5,hexane,calcium chloride,2,,,,,,,,,,,120,30,22,80,50,2,,1000,1000,,,17.2,,71,82,,,10.1016/j.memsci.2013.10.026
+Tetraethylenepentamine,,,1,trimesoyl chloride (265.5),0.5,hexane,calcium chloride,3,,,,,,,,,,,120,30,22,80,50,2,,1000,1000,,,18.3,,62,79,,,10.1016/j.memsci.2013.10.026
+Tetraethylenepentamine,,,1,trimesoyl chloride (265.5),0.5,hexane,calcium chloride,4,,,,,,,,,,,120,30,22,80,50,2,,1000,1000,,,24,,46,75,,,10.1016/j.memsci.2013.10.026
+Tetraethylenepentamine,,,1,trimesoyl chloride (265.5),0.5,hexane,calcium chloride,5,,,,,,,,,,,120,30,22,80,50,2,,1000,1000,,,25.6,,30,70,,,10.1016/j.memsci.2013.10.026
+Ethylenediamine,,,1,trimesoyl chloride (265.5),1.156,toluene,,,,,,,,,,,,,120,,25,63,,4,1000,1000,1000,,,1.7,32.5,90,65,,,10.1016/j.memsci.2008.09.021
+Polyethyleneimine,,,0.25,trimesoyl chloride (265.5),0.2,hexane,,,,,,,,,,,,,30,30,60,55,,4,1000,1000,1000,1000,,28.3,30.7,73.2,39.7,88.6,,10.1038/s41467-020-15771-2
+Polyethyleneimine,,,3,trimesoyl chloride (265.5),0.6,hexane,,,,,,,,,,,,,1800,20,75,82,10,8,500,500,500,500,,0.89,75,83,68,95,,10.1016/j.reactfunctpolym.2014.08.009
+Polyethyleneimine,Piperazine,9,3,trimesoyl chloride (265.5),0.6,hexane,,,,,,,,,,,,,1800,20,75,82,10,8,500,500,500,500,,5.8,70,73,48,92,,10.1016/j.reactfunctpolym.2014.08.009
+Polyethyleneimine,Piperazine,2.33,3,trimesoyl chloride (265.5),0.6,hexane,,,,,,,,,,,,,1800,20,75,82,10,8,500,500,500,500,,4,64,75,53,92,,10.1016/j.reactfunctpolym.2014.08.009
+Polyethyleneimine,Piperazine,1,3,trimesoyl chloride (265.5),0.6,hexane,,,,,,,,,,,,,1800,20,75,82,10,8,500,500,500,500,,2,60,86,60,92,,10.1016/j.reactfunctpolym.2014.08.009
+Polyethyleneimine,Piperazine,0.11,3,trimesoyl chloride (265.5),0.6,hexane,,,,,,,,,,,,,1800,20,75,82,10,8,500,500,500,500,,0.9,55,93,82,95,,10.1016/j.reactfunctpolym.2014.08.009
+Polyethyleneimine,,,2,trimesoyl chloride (265.5),0.4,hexane,sodum dodecyl sulfate,0.1,,,9.5,,,,,,,,1800,20,95,73,10,8,500,500,500,500,,5,30,53,59,87,,10.1016/j.memsci.2014.08.055
+Polyethyleneimine,,,3,trimesoyl chloride (265.5),0.1,hexane,,,,,,,,,,,,,60,5,22,126,148,10,1000,,,1000,,6,67.5,,92.5,,,10.1021/acssuschemeng.6b01299
+"N,N-Diaminopiperazine",,,2,trimesoyl chloride (265.5),0.13,cyclohexane,,,,,,,,,,,,,10,,25,4,,10,3000,3000,3000,,,8.8,21,72,89,,,10.1016/j.memsci.2005.12.014
+"1,4-Bis(3-aminopropyl)-piperazine",,,1,trimesoyl chloride (265.5),0.13,cyclohexane,,,,,,,,,,,,,10,,25,4,,10,3000,3000,3000,,,3.2,57,75,35,,,10.1016/j.memsci.2005.12.014
+N-(2-Aminoethyl)-piperazine,,,1,trimesoyl chloride (265.5),0.13,cyclohexane,,,,,,,,,,,,,10,,25,4,,10,3000,3000,3000,,,3.1,31,90,92,,,10.1016/j.memsci.2005.12.014
+N-(2-Aminoethyl)-piperazine,,,0.5,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,90,5,80,35,160,10.3,2000,1000,,,,5.9,15,95,,,,10.1016/j.memsci.2009.06.025
+N-(2-Aminoethyl)-piperazine,,,2,isophthaloyal  chloride  (203.02),0.1875,hexane,,,,,,,,,,,,,90,5,80,35,160,10.3,2000,1000,,,,2.1,13,80,,,,10.1016/j.memsci.2009.06.025
+N-(2-Aminoethyl)-piperazine,,,2,isophthaloyal  chloride  (203.02),0.3,hexane,,,,,,,,,,,,,90,5,80,35,160,10.3,2000,1000,,,,1,45,82,,,,10.1016/j.memsci.2009.06.025
+N-(2-Aminoethyl)-piperazine,,,4,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,90,5,80,35,160,10.3,2000,,,,,0.4,35,,,,,10.1016/j.memsci.2009.06.025
+N-(2-Aminoethyl)-piperazine,,,4,isophthaloyal  chloride  (203.02),0.15,hexane,,,,,11.5,,,,,,,,90,5,80,35,160,10.3,2000,,,,,0.7,38,,,,,10.1016/j.memsci.2009.06.025
+N-(2-Aminoethyl)-piperazine,,,1.03,trimesoyl chloride (265.5),0.3,toluene,,,,,,,,,,,,,120,15,60,103,30,6,1000,,1000,,,1.7,65,,88,,,10.1039/C5RA18640D
+Polyvinylamine,,,0.6,trimesoyl chloride (265.5),0.06,IP1016,sodum dodecyl sulfate,0.05,,,,,,,,,,,60,10,70,64,100,6,500,500,500,,,8.28,57.8,89.5,72.5,,,10.1016/j.desal.2011.12.018
+Polyvinylamine,,,0.2,trimesoyl chloride (265.5),0.05,IP1016,sodum dodecyl sulfate,0.05,,,,,,,,,,,60,10,75,64,100,6,,,500,,,11,,,82.5,,,10.1016/j.desal.2011.12.018
+Polyvinylamine,,,0.4,trimesoyl chloride (265.5),0.05,IP1016,sodum dodecyl sulfate,0.05,,,,,,,,,,,60,10,75,64,100,6,,,500,,,9.5,,,88,,,10.1016/j.desal.2011.12.018
+Polyvinylamine,,,0.6,trimesoyl chloride (265.5),0.05,IP1016,sodum dodecyl sulfate,0.05,,,,,,,,,,,60,10,75,64,100,6,,,500,,,8,,,96,,,10.1016/j.desal.2011.12.018
+Polyvinylamine,,,0.8,trimesoyl chloride (265.5),0.05,IP1016,sodum dodecyl sulfate,0.05,,,,,,,,,,,60,10,75,64,100,6,,,500,,,7.5,,,95,,,10.1016/j.desal.2011.12.018
+Polyvinylamine,,,1,trimesoyl chloride (265.5),0.05,IP1016,sodum dodecyl sulfate,0.05,,,,,,,,,,,60,10,75,64,100,6,,,500,,,8,,,95.5,,,10.1016/j.desal.2011.12.018
+Polyvinylamine,,,1.2,trimesoyl chloride (265.5),0.05,IP1016,sodum dodecyl sulfate,0.05,,,,,,,,,,,60,10,75,64,100,6,,,500,,,7.7,,,95,,,10.1016/j.desal.2011.12.018
+Polyvinylamine,,,0.6,trimesoyl chloride (265.5),0.02,IP1016,sodum dodecyl sulfate,0.05,,,,,,,,,,,60,10,75,64,100,6,,,500,,,14.8,,,70,,,10.1016/j.desal.2011.12.018
+Polyvinylamine,,,0.6,trimesoyl chloride (265.5),0.04,IP1016,sodum dodecyl sulfate,0.05,,,,,,,,,,,60,10,75,64,100,6,,,500,,,10.3,,,88,,,10.1016/j.desal.2011.12.018
+Polyvinylamine,,,0.6,trimesoyl chloride (265.5),0.06,IP1016,sodum dodecyl sulfate,0.05,,,,,,,,,,,60,10,75,64,100,6,,,500,,,8.3,,,94,,,10.1016/j.desal.2011.12.018
+Polyvinylamine,,,0.6,trimesoyl chloride (265.5),0.08,IP1016,sodum dodecyl sulfate,0.05,,,,,,,,,,,60,10,75,64,100,6,,,500,,,7.9,,,97,,,10.1016/j.desal.2011.12.018
+Polyvinylamine,,,0.6,trimesoyl chloride (265.5),0.1,IP1016,sodum dodecyl sulfate,0.05,,,,,,,,,,,60,10,75,64,100,6,,,500,,,7.7,,,95.5,,,10.1016/j.desal.2011.12.018
+Polyvinylamine,,,0.6,trimesoyl chloride (265.5),0.12,IP1016,sodum dodecyl sulfate,0.05,,,,,,,,,,,60,10,75,64,100,6,,,500,,,7.5,,,95,,,10.1016/j.desal.2011.12.018
+"Bis-2, 6-N, N-(2-hydroxyethyl) diaminotoluene",,,1,trimesoyl chloride (265.5),0.2,hexane,sodum dodecyl sulfate,0.1,,,,,,,,,,,180,15,80,59,50,4,,2000,,,,15.25,,50,,,,10.1016/j.desal.2013.10.006
+"Bis-2, 6-N, N-(2-hydroxyethyl) diaminotoluene",,,2,trimesoyl chloride (265.5),0.2,hexane,sodum dodecyl sulfate,0.1,,,,,,,,,,,180,15,80,59,50,4,,2000,,,,11.25,,79,,,,10.1016/j.desal.2013.10.006
+"Bis-2, 6-N, N-(2-hydroxyethyl) diaminotoluene",,,3,trimesoyl chloride (265.5),0.2,hexane,sodum dodecyl sulfate,0.1,,,,,,,,,,,180,15,80,59,50,4,,2000,,,,10,,90,,,,10.1016/j.desal.2013.10.006
+"Bis-2, 6-N, N-(2-hydroxyethyl) diaminotoluene",,,4,trimesoyl chloride (265.5),0.2,hexane,sodum dodecyl sulfate,0.1,,,,,,,,,,,180,15,80,59,50,4,,2000,,,,7.75,,95,,,,10.1016/j.desal.2013.10.006
+"Bis-2, 6-N, N-(2-hydroxyethyl) diaminotoluene",,,5,trimesoyl chloride (265.5),0.2,hexane,sodum dodecyl sulfate,0.1,,,,,,,,,,,180,15,80,59,50,4,,2000,,,,7.5,,92,,,,10.1016/j.desal.2013.10.006
+"Bis-2, 6-N, N-(2-hydroxyethyl) diaminotoluene",,,6,trimesoyl chloride (265.5),0.2,hexane,sodum dodecyl sulfate,0.1,,,,,,,,,,,180,15,80,59,50,4,,2000,,,,7.5,,97,,,,10.1016/j.desal.2013.10.006
+"Bis-2, 6-N, N-(2-hydroxyethyl) diaminotoluene",,,4,trimesoyl chloride (265.5),0.05,hexane,sodum dodecyl sulfate,0.1,,,,,,,,,,,180,15,80,59,50,4,,2000,,,,15.5,,50,,,,10.1016/j.desal.2013.10.006
+"Bis-2, 6-N, N-(2-hydroxyethyl) diaminotoluene",,,4,trimesoyl chloride (265.5),0.1,hexane,sodum dodecyl sulfate,0.1,,,,,,,,,,,180,15,80,59,50,4,,2000,,,,10,,79,,,,10.1016/j.desal.2013.10.006
+"Bis-2, 6-N, N-(2-hydroxyethyl) diaminotoluene",,,4,trimesoyl chloride (265.5),0.15,hexane,sodum dodecyl sulfate,0.1,,,,,,,,,,,180,15,80,59,50,4,,2000,,,,9.75,,85,,,,10.1016/j.desal.2013.10.006
+"Bis-2, 6-N, N-(2-hydroxyethyl) diaminotoluene",,,4,trimesoyl chloride (265.5),0.25,hexane,sodum dodecyl sulfate,0.1,,,,,,,,,,,180,15,80,59,50,4,,2000,,,,7.5,,96,,,,10.1016/j.desal.2013.10.006
+"Bis-2, 6-N, N-(2-hydroxyethyl) diaminotoluene",,,4,trimesoyl chloride (265.5),0.3,hexane,sodum dodecyl sulfate,0.1,,,,,,,,,,,180,15,80,59,50,4,,2000,,,,7.5,,95,,,,10.1016/j.desal.2013.10.006
+"Bis-2, 6-N, N-(2-hydroxyethyl) diaminotoluene",,,4,trimesoyl chloride (265.5),0.2,hexane,sodum dodecyl sulfate,0.1,,,,,,,,,,,60,15,80,59,50,4,,2000,,,,14.75,,65,,,,10.1016/j.desal.2013.10.006
+"Bis-2, 6-N, N-(2-hydroxyethyl) diaminotoluene",,,4,trimesoyl chloride (265.5),0.2,hexane,sodum dodecyl sulfate,0.1,,,,,,,,,,,120,15,80,59,50,4,,2000,,,,10,,90,,,,10.1016/j.desal.2013.10.006
+"Bis-2, 6-N, N-(2-hydroxyethyl) diaminotoluene",,,4,trimesoyl chloride (265.5),0.2,hexane,sodum dodecyl sulfate,0.1,,,,,,,,,,,240,15,80,59,50,4,,2000,,,,7.25,,95,,,,10.1016/j.desal.2013.10.006
+"Bis-2, 6-N, N-(2-hydroxyethyl) diaminotoluene",,,4,trimesoyl chloride (265.5),0.2,hexane,sodum dodecyl sulfate,0.1,,,,,,,,,,,300,15,80,59,50,4,,2000,,,,7.5,,96,,,,10.1016/j.desal.2013.10.006
+"Bis-2, 6-N, N-(2-hydroxyethyl) diaminotoluene",,,4,trimesoyl chloride (265.5),0.2,hexane,sodum dodecyl sulfate,0.1,,,,,,,,,,,360,15,80,59,50,4,,2000,,,,7.25,,95,,,,10.1016/j.desal.2013.10.006
+"4,4’-isopropylidenediphenol",,,1,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,30,,,22,,1.72,584,,1420,,,34.53,25,,60,,,10.1002/app.21157
+"4,4’-isopropylidenediphenol",,,1,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,30,,,22,,3.1,584,,1420,,,34.53,40,,70,,,10.1002/app.21157
+"4,4’-isopropylidenediphenol",,,1,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,30,,,22,,4.48,584,,1420,,,34.53,50,,75,,,10.1002/app.21157
+"4,4’-isopropylidenediphenol",,,1,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,45,,,22,,1.72,584,,1420,,,14.78,23,,56,,,10.1002/app.21157
+"4,4’-isopropylidenediphenol",,,1,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,45,,,22,,3.1,584,,1420,,,14.78,30,,70,,,10.1002/app.21157
+"4,4’-isopropylidenediphenol",,,1,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,45,,,22,,4.48,584,,1420,,,14.78,38,,73,,,10.1002/app.21157
+"4,4’-isopropylidenediphenol",,,1,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,60,,,22,,1.72,584,,1420,,,9.97,22,,60,,,10.1002/app.21157
+"4,4’-isopropylidenediphenol",,,1,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,60,,,22,,3.1,584,,1420,,,9.97,30,,75,,,10.1002/app.21157
+"4,4’-isopropylidenediphenol",,,1,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,60,,,22,,4.48,584,,1420,,,9.97,35,,78,,,10.1002/app.21157
+"2-Amino-1, 3-propanediol ",,,1,trimesoyl chloride (265.5),0.0375,hexane,4-dimethylaminopyridine,0.1,triethylamine,,11.5,,,,,,,,70,15,40,15,50,5,1000,1000,1000,1000,,7.1,45,60,92,16,,10.1016/j.memsci.2017.07.054
+"2-Amino-1, 3-propanediol ",,,1,trimesoyl chloride (265.5),0.075,hexane,4-dimethylaminopyridine,0.1,triethylamine,,11.5,,,,,,,,70,15,40,15,50,5,1000,1000,1000,1000,,6,60,86,98,28,,10.1016/j.memsci.2017.07.054
+"2-Amino-1, 3-propanediol ",,,1,trimesoyl chloride (265.5),0.1125,hexane,4-dimethylaminopyridine,0.1,triethylamine,,11.5,,,,,,,,70,15,40,15,50,5,1000,1000,1000,1000,,4.5,62,90,98,30,,10.1016/j.memsci.2017.07.054
+"2-Amino-1, 3-propanediol ",,,1,trimesoyl chloride (265.5),0.15,hexane,4-dimethylaminopyridine,0.1,triethylamine,,11.5,,,,,,,,70,15,40,15,50,5,1000,1000,1000,1000,,3.5,64,91,98,34,,10.1016/j.memsci.2017.07.054
+"2-Amino-1, 3-propanediol ",,,1,trimesoyl chloride (265.5),0.225,hexane,4-dimethylaminopyridine,0.1,triethylamine,,11.5,,,,,,,,70,15,40,15,50,5,1000,1000,1000,1000,,3,63,91,98,33,,10.1016/j.memsci.2017.07.054
+"2-Amino-1, 3-propanediol ",,,1,trimesoyl chloride (265.5),0.3,hexane,4-dimethylaminopyridine,0.1,triethylamine,,11.5,,,,,,,,70,15,40,15,50,5,1000,1000,1000,1000,,2.5,65,91,98,35,,10.1016/j.memsci.2017.07.054
+"2-Amino-1, 3-propanediol ",,,0.25,trimesoyl chloride (265.5),0.075,hexane,4-dimethylaminopyridine,0.025,triethylamine,,11.5,,,,,,,,70,15,40,15,50,5,1000,1000,1000,1000,,17.6,23,31,82,8,,10.1016/j.memsci.2017.07.054
+"2-Amino-1, 3-propanediol ",,,0.5,trimesoyl chloride (265.5),0.075,hexane,4-dimethylaminopyridine,0.05,triethylamine,,11.5,,,,,,,,70,15,40,15,50,5,1000,1000,1000,1000,,9.5,44,68,95,20,,10.1016/j.memsci.2017.07.054
+"2-Amino-1, 3-propanediol ",,,0.75,trimesoyl chloride (265.5),0.075,hexane,4-dimethylaminopyridine,0.075,triethylamine,,11.5,,,,,,,,70,15,40,15,50,5,1000,1000,1000,1000,,7.1,49,73,94,22,,10.1016/j.memsci.2017.07.054
+"2-Amino-1, 3-propanediol ",,,1,trimesoyl chloride (265.5),0.075,hexane,4-dimethylaminopyridine,0.1,triethylamine,,11.5,,,,,,,,70,15,40,15,50,5,1000,1000,1000,1000,,6.1,57,85,96,28,,10.1016/j.memsci.2017.07.054
+"2-Amino-1, 3-propanediol ",,,1.25,trimesoyl chloride (265.5),0.075,hexane,4-dimethylaminopyridine,0.125,triethylamine,,11.5,,,,,,,,70,15,40,15,50,5,1000,1000,1000,1000,,4.9,57,85,97,29,,10.1016/j.memsci.2017.07.054
+"2-Amino-1, 3-propanediol ",,,1.5,trimesoyl chloride (265.5),0.075,hexane,4-dimethylaminopyridine,0.15,triethylamine,,11.5,,,,,,,,70,15,40,15,50,5,1000,1000,1000,1000,,4.6,56,86,97,29,,10.1016/j.memsci.2017.07.054
+"2-Amino-1, 3-propanediol ",,,1.75,trimesoyl chloride (265.5),0.075,hexane,4-dimethylaminopyridine,0.175,triethylamine,,11.5,,,,,,,,70,15,40,15,50,5,1000,1000,1000,1000,,4.4,60,89,97,30,,10.1016/j.memsci.2017.07.054
+"2-Amino-1, 3-propanediol ",,,2,trimesoyl chloride (265.5),0.075,hexane,4-dimethylaminopyridine,0.2,triethylamine,,11.5,,,,,,,,70,15,40,15,50,5,1000,1000,1000,1000,,4,64,91,96,35,,10.1016/j.memsci.2017.07.054
+"2-Amino-1, 3-propanediol ",,,2.5,trimesoyl chloride (265.5),0.075,hexane,4-dimethylaminopyridine,0.25,triethylamine,,11.5,,,,,,,,70,15,40,15,50,5,1000,1000,1000,1000,,3.5,65,90,96,36,,10.1016/j.memsci.2017.07.054
+"2-Amino-1, 3-propanediol ",,,3,trimesoyl chloride (265.5),0.075,hexane,4-dimethylaminopyridine,0.3,triethylamine,,11.5,,,,,,,,70,15,40,15,50,5,1000,1000,1000,1000,,6,40,47,70,11,,10.1016/j.memsci.2017.07.054
+"2-Amino-1, 3-propanediol ",,,1,trimesoyl chloride (265.5),0.075,hexane,4-dimethylaminopyridine,0.001,triethylamine,,11.5,,,,,,,,70,15,40,15,50,5,1000,1000,1000,1000,,8.8,18,45,75,9,,10.1016/j.memsci.2017.07.054
+"2-Amino-1, 3-propanediol ",,,1,trimesoyl chloride (265.5),0.075,hexane,4-dimethylaminopyridine,0.005,triethylamine,,11.5,,,,,,,,70,15,40,15,50,5,1000,1000,1000,1000,,3.5,48,75,85,19,,10.1016/j.memsci.2017.07.054
+"2-Amino-1, 3-propanediol ",,,1,trimesoyl chloride (265.5),0.075,hexane,4-dimethylaminopyridine,0.01,triethylamine,,11.5,,,,,,,,70,15,40,15,50,5,1000,1000,1000,1000,,2.6,61,87,97,36,,10.1016/j.memsci.2017.07.054
+"2-Amino-1, 3-propanediol ",,,1,trimesoyl chloride (265.5),0.075,hexane,4-dimethylaminopyridine,0.25,triethylamine,,11.5,,,,,,,,70,15,40,15,50,5,1000,1000,1000,1000,,3,61,92,97,35,,10.1016/j.memsci.2017.07.054
+"2-Amino-1, 3-propanediol ",,,1,trimesoyl chloride (265.5),0.075,hexane,4-dimethylaminopyridine,0.5,triethylamine,,11.5,,,,,,,,70,15,40,15,50,5,1000,1000,1000,1000,,4,61,91,97,34,,10.1016/j.memsci.2017.07.054
+"2-Amino-1, 3-propanediol ",,,1,trimesoyl chloride (265.5),0.075,hexane,4-dimethylaminopyridine,0.75,triethylamine,,11.5,,,,,,,,70,15,40,15,50,5,1000,1000,1000,1000,,4.5,60,90,97,34,,10.1016/j.memsci.2017.07.054
+"2-Amino-1, 3-propanediol ",,,1,trimesoyl chloride (265.5),0.075,hexane,4-dimethylaminopyridine,0.15,triethylamine,,11.5,,,,,,,,70,15,40,15,50,5,1000,1000,1000,1000,,8,48,72,95,21,,10.1016/j.memsci.2017.07.054
+"2-Amino-1, 3-propanediol ",,,1,trimesoyl chloride (265.5),0.075,hexane,4-dimethylaminopyridine,0.2,triethylamine,,11.5,,,,,,,,70,15,40,15,50,5,1000,1000,1000,1000,,10,43,60,94,16,,10.1016/j.memsci.2017.07.054
+"2-Amino-1, 3-propanediol ",,,1,trimesoyl chloride (265.5),0.075,hexane,4-dimethylaminopyridine,0.3,triethylamine,,11.5,,,,,,,,70,15,40,15,50,5,1000,1000,1000,1000,,15.5,30,40,85,10,,10.1016/j.memsci.2017.07.054
+"2-Amino-1, 3-propanediol ",,,1,trimesoyl chloride (265.5),0.075,hexane,4-dimethylaminopyridine,0.1,triethylamine,,11.5,,,,,,,,15,30,40,15,50,5,1000,1000,1000,1000,,8.5,52,72,93,25,,10.1016/j.memsci.2017.07.054
+"2-Amino-1, 3-propanediol ",,,1,trimesoyl chloride (265.5),0.075,hexane,4-dimethylaminopyridine,0.1,triethylamine,,11.5,,,,,,,,15,50,40,15,50,5,1000,1000,1000,1000,,6.8,54,80,95,30,,10.1016/j.memsci.2017.07.054
+"2-Amino-1, 3-propanediol ",,,1,trimesoyl chloride (265.5),0.075,hexane,4-dimethylaminopyridine,0.1,triethylamine,,11.5,,,,,,,,15,70,40,15,50,5,1000,1000,1000,1000,,6.1,58,84,96,29,,10.1016/j.memsci.2017.07.054
+"2-Amino-1, 3-propanediol ",,,1,trimesoyl chloride (265.5),0.075,hexane,4-dimethylaminopyridine,0.1,triethylamine,,11.5,,,,,,,,15,120,40,15,50,5,1000,1000,1000,1000,,6,60,84,96,30,,10.1016/j.memsci.2017.07.054
+Pentaerythritol,,,0.5,trimesoyl chloride (265.5),0.3,hexane,sodium phosphate,,,,12,,,,,,,,1200,40,60,43,30,5,,,1000,,,10.8,,,83,,,10.1016/j.apsusc.2017.04.173
+Pentaerythritol,,,1,trimesoyl chloride (265.5),0.3,hexane,sodium phosphate,,,,12,,,,,,,,1200,40,60,43,30,5,,,1000,,,3.6,,,90,,,10.1016/j.apsusc.2017.04.173
+Pentaerythritol,,,3,trimesoyl chloride (265.5),0.3,hexane,sodium phosphate,,,,12,,,,,,,,1200,40,60,43,30,5,,,1000,,,2.4,,,95,,,10.1016/j.apsusc.2017.04.173
+Pentaerythritol,,,5,trimesoyl chloride (265.5),0.3,hexane,sodium phosphate,,,,12,,,,,,,,1200,40,60,43,30,5,,,1000,,,1.4,,,98,,,10.1016/j.apsusc.2017.04.173
+Pentaerythritol,,,7,trimesoyl chloride (265.5),0.3,hexane,sodium phosphate,,,,12,,,,,,,,1200,40,60,43,30,5,,,1000,,,1.1,,,98,,,10.1016/j.apsusc.2017.04.173
+Pentaerythritol,,,5,trimesoyl chloride (265.5),0.15,hexane,sodium phosphate,,,,12,,,,,,,,1200,40,60,43,30,5,,,1000,,,2.1,,,97,,,10.1016/j.apsusc.2017.04.173
+Pentaerythritol,,,5,trimesoyl chloride (265.5),0.3,hexane,sodium phosphate,,,,12,,,,,,,,1200,40,60,43,30,5,1000,1000,1000,1000,,1.4,50,68,98,26,,10.1016/j.apsusc.2017.04.173
+Pentaerythritol,,,5,trimesoyl chloride (265.5),0.6,hexane,sodium phosphate,,,,12,,,,,,,,1200,40,60,43,30,5,,,1000,,,1.6,,,98,,,10.1016/j.apsusc.2017.04.173
+Pentaerythritol,,,5,trimesoyl chloride (265.5),0.9,hexane,sodium phosphate,,,,12,,,,,,,,1200,40,60,43,30,5,,,1000,,,1.7,,,96,,,10.1016/j.apsusc.2017.04.173
+Pentaerythritol,,,5,trimesoyl chloride (265.5),1.2,hexane,sodium phosphate,,,,12,,,,,,,,1200,40,60,43,30,5,,,1000,,,1.6,,,97,,,10.1016/j.apsusc.2017.04.173
+Pentaerythritol,,,5,trimesoyl chloride (265.5),0.3,hexane,sodium phosphate,,,,12,,,,,,,,300,40,60,43,30,5,,,1000,,,2.3,,,97,,,10.1016/j.apsusc.2017.04.173
+Pentaerythritol,,,5,trimesoyl chloride (265.5),0.3,hexane,sodium phosphate,,,,12,,,,,,,,600,40,60,43,30,5,,,1000,,,1.7,,,98,,,10.1016/j.apsusc.2017.04.173
+Pentaerythritol,,,5,trimesoyl chloride (265.5),0.3,hexane,sodium phosphate,,,,12,,,,,,,,1800,40,60,43,30,5,,,1000,,,1.2,,,98,,,10.1016/j.apsusc.2017.04.173
+Pentaerythritol,,,5,trimesoyl chloride (265.5),0.3,hexane,sodium phosphate,,,,12,,,,,,,,2400,40,60,43,30,5,,,1000,,,1.1,,,98,,,10.1016/j.apsusc.2017.04.173
+Polyamidoamine,,,0.5,trimesoyl chloride (265.5),0.225,hexane,,,,,,,,,,,,,15,5,80,23,50,6,200,2000,2000,,,3.12,41,93,92.4,,,10.1039/C6RA05716K
+Polyamidoamine,,,0.3,trimesoyl chloride (265.5),0.225,hexane,,,,,,,,,,,,,15,5,80,23,50,6,,,2000,,,3.15,,,84.4,,,10.1039/C6RA05716K
+Polyamidoamine,,,1,trimesoyl chloride (265.5),0.225,hexane,,,,,,,,,,,,,15,5,80,23,50,6,,,2000,,,2.5,,,94,,,10.1039/C6RA05716K
+Polyamidoamine,,,1.5,trimesoyl chloride (265.5),0.225,hexane,,,,,,,,,,,,,15,5,80,23,50,6,,,2000,,,3,,,95,,,10.1039/C6RA05716K
+Polyamidoamine,Piperazine,4,0.5,trimesoyl chloride (265.5),0.225,hexane,,,,,,,,,,,,,15,5,80,23,50,6,2000,2000,2000,,,5.3,32,93,91,,,10.1039/C6RA05716K
+Polyamidoamine,,,0.5,trimesoyl chloride (265.5),0.075,hexane,,,,,,,,,,,,,15,5,80,23,50,6,,,2000,,,4,,,58,,,10.1039/C6RA05716K
+Polyamidoamine,,,0.5,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,15,5,80,23,50,6,,,2000,,,3,,,85,,,10.1039/C6RA05716K
+Polyamidoamine,,,0.5,trimesoyl chloride (265.5),0.3,hexane,,,,,,,,,,,,,15,5,80,23,50,6,,,2000,,,2.7,,,88,,,10.1039/C6RA05716K
+Polyamidoamine,,,0.5,trimesoyl chloride (265.5),0.225,hexane,,,,,,,,,,,,,5,5,80,23,50,6,,,2000,,,6,,,86,,,10.1039/C6RA05716K
+Polyamidoamine,,,0.5,trimesoyl chloride (265.5),0.225,hexane,,,,,,,,,,,,,10,5,80,23,50,6,,,2000,,,3,,,90,,,10.1039/C6RA05716K
+Polyamidoamine,,,0.5,trimesoyl chloride (265.5),0.225,hexane,,,,,,,,,,,,,30,5,80,23,50,6,,,2000,,,3,,,86,,,10.1039/C6RA05716K
+Polyamidoamine,Piperazine,1.5,0.5,trimesoyl chloride (265.5),0.225,hexane,,,,,,,,,,,,,15,5,80,23,50,6,,,2000,,,5.5,,,86,,,10.1039/C6RA05716K
+Polyamidoamine,Piperazine,0.67,0.5,trimesoyl chloride (265.5),0.225,hexane,,,,,,,,,,,,,15,5,80,23,50,6,,,2000,,,5.9,,,87,,,10.1039/C6RA05716K
+Polyamidoamine,Piperazine,0.2,0.5,trimesoyl chloride (265.5),0.225,hexane,,,,,,,,,,,,,15,5,80,23,50,6,,,2000,,,4.1,,,95,,,10.1039/C6RA05716K
+Polyamidoamine,,,0.5,trimesoyl chloride (265.5),0.225,hexane,,,,,,,,,,,,,15,5,80,23,50,6,,,2000,,,3.5,,,99,,,10.1039/C6RA05716K
+"Potassium 2,5-bis(4-aminophenoxy)- benzenesulfonate",,,0.05,trimesoyl chloride (265.5),0.15,hexane,triethylamine,,,,11,,,,,,,,120,5,60,24,35,6,,,1000,,,32,,,58,,,10.1021/acs.iecr.6b00409
+"Potassium 2,5-bis(4-aminophenoxy)- benzenesulfonate",,,0.25,trimesoyl chloride (265.5),0.15,hexane,triethylamine,,,,11,,,,,,,,120,5,60,24,35,6,,,1000,,,6,,,93,,,10.1021/acs.iecr.6b00409
+"Potassium 2,5-bis(4-aminophenoxy)- benzenesulfonate",,,0.5,trimesoyl chloride (265.5),0.15,hexane,triethylamine,,,,11,,,,,,,,120,5,60,24,35,6,,,1000,,,8,,,93,,,10.1021/acs.iecr.6b00409
+"Potassium 2,5-bis(4-aminophenoxy)- benzenesulfonate",,,0.75,trimesoyl chloride (265.5),0.15,hexane,triethylamine,,,,11,,,,,,,,120,5,60,24,35,6,1000,1000,1000,1000,,12,45,78,93,40,,10.1021/acs.iecr.6b00409
+"Potassium 2,5-bis(4-aminophenoxy)- benzenesulfonate",,,1,trimesoyl chloride (265.5),0.15,hexane,triethylamine,,,,11,,,,,,,,120,5,60,24,35,6,,,1000,,,14.5,,,79,,,10.1021/acs.iecr.6b00409
+"Potassium 2,5-bis(4-aminophenoxy)- benzenesulfonate",,,0.75,trimesoyl chloride (265.5),0.075,hexane,triethylamine,,,,11,,,,,,,,120,5,60,24,35,6,,,1000,,,17,,,54,,,10.1021/acs.iecr.6b00409
+"Potassium 2,5-bis(4-aminophenoxy)- benzenesulfonate",,,0.75,trimesoyl chloride (265.5),0.1125,hexane,triethylamine,,,,11,,,,,,,,120,5,60,24,35,6,,,1000,,,15.5,,,72,,,10.1021/acs.iecr.6b00409
+"Potassium 2,5-bis(4-aminophenoxy)- benzenesulfonate",,,0.75,trimesoyl chloride (265.5),0.1875,hexane,triethylamine,,,,11,,,,,,,,120,5,60,24,35,6,,,1000,,,6.5,,,90,,,10.1021/acs.iecr.6b00409
+Triethanolamine,,,6,trimesoyl chloride (265.5),0.3,hexane,sodum dodecyl sulfate,0.3,,,12,,,,,,,,2100,30,60,31,,6,293,602,710,476,,0.5,42,76,82,23,,10.1016/j.memsci.2008.04.002
+Triethanolamine,,,0.5,trimesoyl chloride (265.5),0.3,hexane,sodum dodecyl sulfate,0.3,,,12,,,,,,,,2100,30,60,33,,6,,602,710,,,0.6,,77,83,,,10.1016/j.memsci.2010.09.015
+Triethanolamine,,,0.5,trimesoyl chloride (265.5),0.3,hexane,sodum dodecyl sulfate,0.3,,,12,,,,,,,,2100,30,60,33,,6,,602,710,,,1.7,,14,53,,,10.1016/j.memsci.2010.09.015
+Triethanolamine,,,0.5,trimesoyl chloride (265.5),0.3,hexane,sodum dodecyl sulfate,0.3,,,12,,,,,,,,2100,30,60,33,,6,,602,710,,,2.8,,25,70,,,10.1016/j.memsci.2010.09.015
+Triethanolamine,,,0.5,trimesoyl chloride (265.5),0.3,hexane,sodum dodecyl sulfate,0.3,,,12,,,,,,,,2100,30,60,33,,6,,602,710,,,0.5,,63,78,,,10.1016/j.memsci.2010.09.015
+Triethanolamine,,,0.5,trimesoyl chloride (265.5),0.3,hexane,sodum dodecyl sulfate,0.3,,,12,,,,,,,,2100,30,60,33,,6,,602,710,,,0.4,,78,80,,,10.1016/j.memsci.2010.09.015
+Triethanolamine,,,5,trimesoyl chloride (265.5),0.3,hexane,sodum dodecyl sulfate,0.3,,,12,,,,,,,,2100,30,60,31,,6,293,602,710,476,,0.6,28,52,55,23,,10.1016/j.memsci.2008.04.002
+Triethanolamine,,,6,trimesoyl chloride (265.5),0.9,hexane,,,,,,,,,,,,,2100,30,60,92,,6,,,710,,,2,,,23,,,10.1016/j.memsci.2012.10.042
+Triethanolamine,,,6,trimesoyl chloride (265.5),0.9,hexane,,,,,,,,multi-walled carbon nanotube-COOH,0.5,,,tube,2100,30,60,92,,6,,,710,,,3.7,,,70,,,10.1016/j.memsci.2012.10.042
+Triethanolamine,,,6,trimesoyl chloride (265.5),0.9,hexane,sodum dodecyl sulfate,0.3,,,,,,multi-walled carbon nanotube-COOH,0.5,,,tube,2100,30,60,92,,6,342,,710,,,3.5,20,,78,,,10.1016/j.memsci.2012.10.042
+Triethanolamine,,,6,trimesoyl chloride (265.5),0.9,hexane,Trixton x-100,0.3,,,,,,multi-walled carbon nanotube-COOH,0.5,,,tube,2100,30,60,92,,6,,,710,,,3.6,,,69,,,10.1016/j.memsci.2012.10.042
+Triethanolamine,,,6,trimesoyl chloride (265.5),0.9,hexane,cetyltrimethylammonium bromide,0.3,,,,,,multi-walled carbon nanotube-COOH,0.5,,,tube,2100,30,60,92,,6,,,710,,,6.4,,,43,,,10.1016/j.memsci.2012.10.042
+Triethanolamine,,,6,trimesoyl chloride (265.5),0.225,hexane,NaOH,1,,,,,,,,,,,15,,22,121,50,4,584,,,,,1.6,5,,,,,10.1007/978-1-4614-6208-8_15
+Triethanolamine,,,6,trimesoyl chloride (265.5),0.225,hexane,NaOH,1,,,,,,,,,,,25,,22,121,50,4,584,,,,,2.4,15,,,,,10.1007/978-1-4614-6208-8_15
+Triethanolamine,,,6,trimesoyl chloride (265.5),0.225,hexane,NaOH,1,,,,,,,,,,,35,,22,121,50,4,584,,,,,4.3,22,,,,,10.1007/978-1-4614-6208-8_15
+"3,5-diaminobenzoic acid",,,1,isophthaloyal  chloride  (203.02),0.15,hexane,,,,,,,,,,,,,90,5,80,35,160,17.24,2000,,,,,13.2,23,,,,,10.1016/j.memsci.2009.06.025
+"3,5-diaminobenzoic acid",,,1,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,90,5,80,35,160,17.24,2000,,,,,5.6,67,,,,,10.1016/j.memsci.2009.06.025
+N-methyl-diethanolamine,,,0.5,trimesoyl chloride (265.5),0.3,hexane,sodum dodecyl sulfate,0.3,,,12,,,,,,,,2100,30,60,33,,6,,602,710,,,1.4,,65,44,,,10.1016/j.memsci.2010.09.015
+N-methyl-diethanolamine,,,0.5,trimesoyl chloride (265.5),0.3,hexane,sodum dodecyl sulfate,0.3,,,12,,,,,,,,2100,30,60,33,,6,,602,710,,,0.9,,76,82,,,10.1016/j.memsci.2010.09.015
+N-methyl-diethanolamine,,,0.5,trimesoyl chloride (265.5),0.3,hexane,sodum dodecyl sulfate,0.3,,,12,,,,,,,,2100,30,60,33,,6,,602,710,,,0.5,,83,85,,,10.1016/j.memsci.2010.09.015
+N-methyl-diethanolamine,,,0.5,trimesoyl chloride (265.5),0.3,hexane,sodum dodecyl sulfate,0.3,,,12,,,,,,,,2100,30,60,33,,6,,602,710,,,0.6,,78,75,,,10.1016/j.memsci.2010.09.015
+N-methyl-diethanolamine,,,0.5,trimesoyl chloride (265.5),0.3,hexane,sodum dodecyl sulfate,0.3,,,12,,,,,,,,2100,30,60,33,,6,,602,710,,,0.9,,70,68,,,10.1016/j.memsci.2010.09.015
+Polyamidoamine,,,0.58,trimesoyl chloride (265.5),0.42,hexane,sodum dodecyl sulfate,0.01,,,,,,,,,,,60,10,80,37,50,6,1000,1000,1000,1000,,6.2,36,67,38,77,,10.1016/j.memsci.2005.06.021
+Polyamidoamine,,,0.1,trimesoyl chloride (265.5),0.15,hexane,triethylamine,2,,,,,,,,,,,30,15,60,124,,7,584,1200,1420,952,,20.2,5,12,99,3,,10.1016/j.memsci.2014.04.040
+Polyamidoamine,,,0.3,trimesoyl chloride (265.5),0.15,hexane,triethylamine,2,,,,,,,,,,,30,15,60,124,,7,584,1200,1420,952,,19.5,18,40,99,19,,10.1016/j.memsci.2014.04.040
+Polyamidoamine,,,0.5,trimesoyl chloride (265.5),0.15,hexane,triethylamine,2,,,,,,,,,,,30,15,60,124,,7,584,1200,1420,952,,18.3,25,56,99,35,,10.1016/j.memsci.2014.04.040
+Polyamidoamine,Piperazine,0.05,2.1,trimesoyl chloride (265.5),0.15,hexane,triethylamine,2,,,,,,,,,,,30,15,60,124,,7,584,1200,1420,952,,7.8,45,99,99,97,,10.1016/j.memsci.2014.04.040
+Polyamidoamine,Piperazine,0.1,2.2,trimesoyl chloride (265.5),0.15,hexane,triethylamine,2,,,,,,,,,,,30,15,60,124,,7,584,1200,1420,952,,7.6,40,99,99,96,,10.1016/j.memsci.2014.04.040
+Polyamidoamine,Piperazine,0.15,2.3,trimesoyl chloride (265.5),0.15,hexane,triethylamine,2,,,,,,,,,,,30,15,60,124,,7,584,1200,1420,952,,9,40,99,99,97,,10.1016/j.memsci.2014.04.040
+Polyamidoamine,Piperazine,0.2,2.4,trimesoyl chloride (265.5),0.15,hexane,triethylamine,2,,,,,,,,,,,30,15,60,124,,7,584,1200,1420,952,,11,35,97,99,90,,10.1016/j.memsci.2014.04.040
+Polyamidoamine,Piperazine,0.25,2.5,trimesoyl chloride (265.5),0.15,hexane,triethylamine,2,,,,,,,,,,,30,15,60,124,,7,584,1200,1420,952,,11.5,30,97,99,87,,10.1016/j.memsci.2014.04.040
+Polyamidoamine,,,0.94,trimesoyl chloride (265.5),0.42,hexane,sodum dodecyl sulfate,0.01,,,,,,,,,,,60,10,80,37,50,6,1000,1000,1000,1000,,7.6,48,72,47,84,,10.1016/j.memsci.2005.06.021
+Polyamidoamine,,,5.17,trimesoyl chloride (265.5),0.42,hexane,sodum dodecyl sulfate,0.01,,,,,,,,,,,60,10,80,37,50,6,1000,1000,1000,1000,,11.4,72,85,58,96,,10.1016/j.memsci.2005.06.021
+Glucouse,,,2,trimesoyl chloride (265.5),0.15,hexane,4-dimethylaminopyridine,0.27,,,,,,,,,,,300,5,70,28,,10,2000,2000,2000,,2000,4.4,55,75,95,,67,10.1016/j.memsci.2015.12.064
+Glucouse,,,2,trimesoyl chloride (265.5),0.15,hexane,4-dimethylaminopyridine,0.27,,,,,,,,,,,300,5,70,28,,4,2000,2000,2000,,2000,,41,68,94,,57,10.1016/j.memsci.2015.12.064
+Glucouse,,,2,trimesoyl chloride (265.5),0.15,hexane,4-dimethylaminopyridine,0.27,,,,,,,,,,,300,5,70,28,,6,2000,2000,2000,,2000,,45,70,94,,62,10.1016/j.memsci.2015.12.064
+Glucouse,,,2,trimesoyl chloride (265.5),0.15,hexane,4-dimethylaminopyridine,0.27,,,,,,,,,,,300,5,70,28,,8,2000,2000,2000,,2000,,50,71,95,,67,10.1016/j.memsci.2015.12.064
+Glucouse,,,2,trimesoyl chloride (265.5),0.15,hexane,4-dimethylaminopyridine,0.27,,,,,,,,,,,300,5,70,28,,12,2000,2000,2000,,2000,,56,79,96,,66,10.1016/j.memsci.2015.12.064
+"1,3-cyclohexanebis(methylamine)",,,2,trimesoyl chloride (265.5),0.2,hexane,,,,,,,,,,,,,10,3,65,47,90,10,2000,,,,,7.5,60,,,,,10.1016/j.memsci.2007.10.004
+"1,3-cyclohexanebis(methylamine)",,,2,trimesoyl chloride (265.5),0.2,hexane,,,,,,,,,,,,,90,3,65,47,90,10,2000,,,,,5.5,74,,,,,10.1016/j.memsci.2007.10.004
+"1,4-Diazacycloheptane",,,2,trimesoyl chloride (265.5),0.15,Isoparaphin-G,sodium hydroxide,0.35,,,,,,,,,,,60,8,60,72,,10.3,,,2000,,,3.1,,,96,,,10.1021/acsomega.0c04064
+"1,4-Diazacycloheptane",,,2,trimesoyl chloride (265.5),0.15,Isoparaphin-G,sodium hydroxide,0.35,,,,,,,,,,,60,8,60,72,,10.3,,2000,,,,3.2,,97,,,,10.1021/acsomega.0c04064
+"1,4-Diazacycloheptane",,,2,trimesoyl chloride (265.5),0.15,Isoparaphin-G,sodium hydroxide,0.35,,,,,,,,,,,60,8,60,72,,10.3,2000,,,,,3.4,30,,,,,10.1021/acsomega.0c04064
+"1,4-Diazacycloheptane",,,2,trimesoyl chloride (265.5),0.15,Isoparaphin-G,sodium hydroxide,0.35,,,,,,,,,,,60,8,60,72,,10.3,,,,,,,,,,,,10.1021/acsomega.0c04064
+"1,4-Diazacycloheptane",,,2,trimesoyl chloride (265.5),0.15,Isoparaphin-G,sodium hydroxide,0.35,,,,,,,,,,,60,8,60,72,,10.3,,,,,,,,,,,,10.1021/acsomega.0c04064
+Polyvinylamine,,,0.6,isophthaloyal  chloride  (203.02),0.08,Isoparaphin-G,sodum dodecyl sulfate,0.05,,,9.5,,,,,,,,60,10,80,74,100,6,1000,1000,1000,1000,,4.15,61.2,91.8,70.5,96.7,,10.1016/j.memsci.2011.05.061
+Sericin,,,0.25,trimesoyl chloride (265.5),0.053,Isoparaphin-G,sodum dodecyl sulfate,0.005,,,9.5,,,,,,,,60,15,70,75,100,5,,,500,,,14.9,,,89.5,,,10.1016/j.memsci.2014.08.033
+Sericin,,,0.5,trimesoyl chloride (265.5),0.053,Isoparaphin-G,sodum dodecyl sulfate,0.005,,,9.5,,,,,,,,60,15,70,75,100,5,,,500,,,13.5,,,92.5,,,10.1016/j.memsci.2014.08.033
+Sericin,,,0.5,trimesoyl chloride (265.5),0.08,Isoparaphin-G,sodum dodecyl sulfate,0.005,,,9.5,,,,,,,,60,15,70,75,100,5,500,500,500,500,,11.9,40,40,95.3,22,,10.1016/j.memsci.2014.08.033
+"2,2′-Oxybis-ethylamine",,,2,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,30,30,22,76,20,7,2000,2000,2000,,,5.9,20,55,80,,,10.1016/j.desal.2014.10.036
+Dopamine,,,0.1,trimesoyl chloride (265.5),0.1,heptane,,,,,,,,,,,,,120,,22,77,29,2,,1000,1000,,,10.5,,25,55,,,10.1016/j.memsci.2014.04.018
+Dopamine,,,0.1,trimesoyl chloride (265.5),0.2,heptane,,,,,,,,,,,,,120,,22,77,29,2,,1000,1000,,,7.5,,26,53,,,10.1016/j.memsci.2014.04.018
+Dopamine,,,0.1,trimesoyl chloride (265.5),0.3,heptane,,,,,,,,,,,,,120,,22,77,29,2,,1000,1000,,,7,,27,59,,,10.1016/j.memsci.2014.04.018
+Dopamine,,,0.1,trimesoyl chloride (265.5),0.4,heptane,,,,,,,,,,,,,120,,22,77,29,2,,1000,1000,,,8,,27,64,,,10.1016/j.memsci.2014.04.018
+Dopamine,,,0.1,trimesoyl chloride (265.5),0.5,heptane,,,,,,,,,,,,,120,,22,77,29,2,,1000,1000,,,8.5,,25,70,,,10.1016/j.memsci.2014.04.018
+Dopamine,,,0.05,trimesoyl chloride (265.5),0.2,heptane,,,,,,,,,,,,,120,,22,77,29,2,,1000,1000,,,30,,6,35,,,10.1016/j.memsci.2014.04.018
+Dopamine,,,0.2,trimesoyl chloride (265.5),0.2,heptane,,,,,,,,,,,,,120,,22,77,29,2,,1000,1000,,,4.5,,32,68,,,10.1016/j.memsci.2014.04.018
+Dopamine,,,0.3,trimesoyl chloride (265.5),0.2,heptane,,,,,,,,,,,,,120,,22,77,29,2,,1000,1000,,,3.5,,32,65,,,10.1016/j.memsci.2014.04.018
+Dopamine,,,0.5,trimesoyl chloride (265.5),0.2,heptane,,,,,,,,,,,,,120,,22,77,29,2,,1000,1000,,,2,,31,70,,,10.1016/j.memsci.2014.04.018
+Tannic acid,,,0.1,trimesoyl chloride (265.5),0.1,hexane,,,,,7,,,,,,,,180,,,79,50,2,585,1200,1420,,,50.2,1,5,3,,,10.1016/j.memsci.2012.11.059
+Tannic acid,,,0.2,trimesoyl chloride (265.5),0.1,hexane,,,,,7,,,,,,,,180,,,79,50,2,585,1200,1420,,,12.5,5,14,13,,,10.1016/j.memsci.2012.11.059
+Tannic acid,,,0.3,trimesoyl chloride (265.5),0.1,hexane,,,,,7,,,,,,,,180,,,79,50,2,585,1200,1420,,,18.4,20,40,39,,,10.1016/j.memsci.2012.11.059
+Tannic acid,,,0.4,trimesoyl chloride (265.5),0.1,hexane,,,,,7,,,,,,,,180,,,79,50,2,585,1200,1420,,,20.1,22,45,43,,,10.1016/j.memsci.2012.11.059
+Tannic acid,,,0.5,trimesoyl chloride (265.5),0.1,hexane,,,,,7,,,,,,,,180,,,79,50,2,585,1200,1420,,,23.4,15,50,48,,,10.1016/j.memsci.2012.11.059
+Tannic acid,,,0.5,trimesoyl chloride (265.5),0.2,hexane,,,,,7,,,,,,,,180,,,79,50,2,585,1200,1420,,,24.8,11,32,31,,,10.1016/j.memsci.2012.11.059
+Tannic acid,,,0.5,trimesoyl chloride (265.5),0.3,hexane,,,,,7,,,,,,,,180,,,79,50,2,585,1200,1420,,,22.4,10,26,25,,,10.1016/j.memsci.2012.11.059
+Tannic acid,,,0.5,trimesoyl chloride (265.5),0.4,hexane,,,,,7,,,,,,,,180,,,79,50,2,585,1200,1420,,,18.2,5,18,17,,,10.1016/j.memsci.2012.11.059
+Tannic acid,,,0.5,trimesoyl chloride (265.5),0.5,hexane,,,,,7,,,,,,,,180,,,79,50,2,585,1200,1420,,,13.6,1,12,12,,,10.1016/j.memsci.2012.11.059
+Tannic acid,,,0.03,Isophorone diisocyanate (222.3),0.375,hexane,,,,,7,,,graphene oxide quantum dots,0.25,,,dot,600,5,60,135,,2,,,1000,,,8,,,66.7,,,10.1021/acsami.6b12826
+Tannic acid,,,0.03,Isophorone diisocyanate (222.3),0.375,hexane,,,,,7,,,graphene oxide quantum dots,0.5,,,dot,600,5,60,135,,2,1000,1000,1000,1000,,9,16,30,65.7,,,10.1021/acsami.6b12826
+Tannic acid,,,0.03,Isophorone diisocyanate (222.3),0.375,hexane,,,,,7,,,graphene oxide quantum dots,0.75,,,dot,600,5,60,135,,2,,,1000,,,10.5,,,62.7,,,10.1021/acsami.6b12826
+Tannic acid,,,0.03,Isophorone diisocyanate (222.3),0.375,hexane,,,,,7,,,graphene oxide quantum dots,1,,,dot,600,5,60,135,,2,,,1000,,,11.5,,,57.1,,,10.1021/acsami.6b12826
+"3,5-diaminobenzoylpiperazine",,,1,trimesoyl chloride (265.5),0.25,hexane,sodum dodecyl sulfate,0.05,,,,,,,,,,,120,15,70,81,67,4,1500,1500,1500,1500,,14,18,86,96,40,,10.1016/S1004-9541(11)60163-8
+"3,5-diaminobenzoylpiperazine",,,1.5,trimesoyl chloride (265.5),0.25,hexane,sodum dodecyl sulfate,0.05,,,,,,,,,,,120,15,70,81,67,4,1500,1500,1500,1500,,12,20,90,98,48,,10.1016/S1004-9541(11)60163-8
+"3,5-diaminobenzoylpiperazine",,,2,trimesoyl chloride (265.5),0.25,hexane,sodum dodecyl sulfate,0.05,,,,,,,,,,,120,15,70,81,67,4,1500,1500,1500,1500,,10.5,19,88,96,43,,10.1016/S1004-9541(11)60163-8
+"3,5-diaminobenzoylpiperazine",,,2.5,trimesoyl chloride (265.5),0.25,hexane,sodum dodecyl sulfate,0.05,,,,,,,,,,,120,15,70,81,67,4,1500,1500,1500,1500,,9,19,86,96,40,,10.1016/S1004-9541(11)60163-8
+"3,5-diaminobenzoylpiperazine",,,3,trimesoyl chloride (265.5),0.25,hexane,sodum dodecyl sulfate,0.05,,,,,,,,,,,120,15,70,81,67,4,1500,1500,1500,1500,,7,18,85,95,39,,10.1016/S1004-9541(11)60163-8
+4-aminobenzoylpiperazine,,,0.5,trimesoyl chloride (265.5),0.25,hexane,sodum dodecyl sulfate,0.05,,,,,,,,,,,120,15,70,85,67,4,1500,1500,1500,1500,,13.5,16,89,96,37,,10.1080/01496395.2012.685546
+4-aminobenzoylpiperazine,,,1,trimesoyl chloride (265.5),0.25,hexane,sodum dodecyl sulfate,0.05,,,,,,,,,,,120,15,70,85,67,4,1500,1500,1500,1500,,11.5,20,91,98,46,,10.1080/01496395.2012.685546
+4-aminobenzoylpiperazine,,,2,trimesoyl chloride (265.5),0.25,hexane,sodum dodecyl sulfate,0.05,,,,,,,,,,,120,15,70,85,67,4,1500,1500,1500,1500,,10.5,16,80,96,42,,10.1080/01496395.2012.685546
+4-aminobenzoylpiperazine,,,3,trimesoyl chloride (265.5),0.25,hexane,sodum dodecyl sulfate,0.05,,,,,,,,,,,120,15,70,85,67,4,1500,1500,1500,1500,,9,15,50,79,36,,10.1080/01496395.2012.685546
+4-aminobenzoylpiperazine,,,4,trimesoyl chloride (265.5),0.25,hexane,sodum dodecyl sulfate,0.05,,,,,,,,,,,120,15,70,85,67,4,1500,1500,1500,1500,,7,12,45,39,34,,10.1080/01496395.2012.685546
+4-aminobenzoylpiperazine,,,1,trimesoyl chloride (265.5),0.25,hexane,sodum dodecyl sulfate,0.05,,,,,,,,,,,120,15,60,85,67,4,1500,1500,1500,1500,,7,29,93,98,60,,10.1080/01496395.2012.685546
+4-aminobenzoylpiperazine,,,1,trimesoyl chloride (265.5),0.25,hexane,sodum dodecyl sulfate,0.05,,,,,,,,,,,120,15,80,85,67,4,1500,1500,1500,1500,,5,35,95,98,59,,10.1080/01496395.2012.685546
+4-aminobenzoylpiperazine,,,1,trimesoyl chloride (265.5),0.25,hexane,sodum dodecyl sulfate,0.05,,,,,,,,,,,120,15,90,85,67,4,1500,1500,1500,1500,,4,26,90,96,50,,10.1080/01496395.2012.685546
+4-aminobenzoylpiperazine,,,1,trimesoyl chloride (265.5),0.25,hexane,sodum dodecyl sulfate,0.05,,,,,,,,,,,120,15,100,85,67,4,1500,1500,1500,1500,,3.5,20,84,93,45,,10.1080/01496395.2012.685546
+N-aminoethyl piperazine propane sulfonate,,,2.8,trimesoyl chloride (265.5),0.3,toluene,,,,,11.5,,,,,,,,120,15,60,103,30,6,1000,,1000,,,15,13,,78,,,10.1039/C5RA18640D
+"1,4-Diaminocyclohexane",,,2,trimesoyl chloride (265.5),0.375,hexane,,,,,,,,,,,,,15,5,80,89,70,6,2000,2000,2000,2000,,15.3,25,88,96,77,,10.1039/C5RA02560E
+"1,4-Diaminocyclohexane",,,2,trimesoyl chloride (265.5),0.375,hexane,sodium N-cyclohexylsulfamate ,0.07,,,,,,,,,,,15,5,80,89,70,6,2000,2000,2000,2000,,15.5,26,90,98,80,,10.1039/C5RA02560E
+"2,2 0-bis(1-hydroxyl-1-trifluoromethyl-2,2,2-trifluo-roethyl)-4,4'-methylenedianiline",,,1,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,5,5,80,107,50,6,,,1000,,,2.5,,,82.5,,,10.1080/01496395.2012.692424
+"2,2 0-bis(1-hydroxyl-1-trifluoromethyl-2,2,2-trifluo-roethyl)-4,4'-methylenedianiline",,,1,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,10,5,80,107,50,6,1000,1000,1000,1000,,1.7,10,55,85.1,29,,10.1080/01496395.2012.692424
+"2,2 0-bis(1-hydroxyl-1-trifluoromethyl-2,2,2-trifluo-roethyl)-4,4'-methylenedianiline",,,1,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,20,5,80,107,50,6,,,1000,,,1.5,,,84.8,,,10.1080/01496395.2012.692424
+"2,2 0-bis(1-hydroxyl-1-trifluoromethyl-2,2,2-trifluo-roethyl)-4,4'-methylenedianiline",,,1,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,30,5,80,107,50,6,,,1000,,,1.4,,,84.9,,,10.1080/01496395.2012.692424
+"2,2 0-bis(1-hydroxyl-1-trifluoromethyl-2,2,2-trifluo-roethyl)-4,4'-methylenedianiline",,,1,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,45,5,80,107,50,6,,,1000,,,1.3,,,85,,,10.1080/01496395.2012.692424
+"2,2 0-bis(1-hydroxyl-1-trifluoromethyl-2,2,2-trifluo-roethyl)-4,4'-methylenedianiline",,,1,trimesoyl chloride (265.5),0.05,hexane,,,,,,,,,,,,,10,5,80,107,50,6,,,1000,,,8,,,68,,,10.1080/01496395.2012.692424
+"2,2 0-bis(1-hydroxyl-1-trifluoromethyl-2,2,2-trifluo-roethyl)-4,4'-methylenedianiline",,,1,trimesoyl chloride (265.5),0.1,hexane,,,,,,,,,,,,,10,5,80,107,50,6,,,1000,,,3.4,,,82,,,10.1080/01496395.2012.692424
+"2,2 0-bis(1-hydroxyl-1-trifluoromethyl-2,2,2-trifluo-roethyl)-4,4'-methylenedianiline",,,1,trimesoyl chloride (265.5),0.2,hexane,,,,,,,,,,,,,10,5,80,107,50,6,,,1000,,,1.6,,,84,,,10.1080/01496395.2012.692424
+"2,2 0-bis(1-hydroxyl-1-trifluoromethyl-2,2,2-trifluo-roethyl)-4,4'-methylenedianiline",,,1,trimesoyl chloride (265.5),0.25,hexane,,,,,,,,,,,,,10,5,80,107,50,6,,,1000,,,1.5,,,85,,,10.1080/01496395.2012.692424
+"2,2 0-bis(1-hydroxyl-1-trifluoromethyl-2,2,2-trifluo-roethyl)-4,4'-methylenedianiline",,,1,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,10,0,80,107,50,6,,,1000,,,2.5,,,81,,,10.1080/01496395.2012.692424
+"2,2 0-bis(1-hydroxyl-1-trifluoromethyl-2,2,2-trifluo-roethyl)-4,4'-methylenedianiline",,,1,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,10,2.5,80,107,50,6,,,1000,,,2,,,84,,,10.1080/01496395.2012.692424
+"2,2 0-bis(1-hydroxyl-1-trifluoromethyl-2,2,2-trifluo-roethyl)-4,4'-methylenedianiline",,,1,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,,,,10,10,80,107,50,6,,,1000,,,2.7,,,84,,,10.1080/01496395.2012.692424
+Melamine,,,2,trimesoyl chloride (265.5),0.13,cyclohexane ,,,,,,,,,,,,,40,5,70,94,,10,1000,,1000,,,3.3,24,,78,,,10.1016/j.memsci.2012.08.017
+Melamine,,,2,trimesoyl chloride (265.5),0.13,cyclohexane ,,,,,,,,,,,,,30,5,70,94,,10,1000,,1000,,,3.5,20,,74,,,10.1016/j.memsci.2012.08.017
+Melamine,,,2,trimesoyl chloride (265.5),0.13,cyclohexane ,,,,,,,,,,,,,50,5,70,94,,10,1000,,1000,,,3.5,11,,64,,,10.1016/j.memsci.2012.08.017
+Melamine,,,2,trimesoyl chloride (265.5),0.13,cyclohexane ,,,,,,,,,,,,,60,5,70,94,,10,1000,,1000,,,3,9,,62,,,10.1016/j.memsci.2012.08.017
+Melamine,,,1,trimesoyl chloride (265.5),0.13,cyclohexane ,,,,,,,,,,,,,40,5,70,94,,10,1000,,1000,,,3.5,20,,71,,,10.1016/j.memsci.2012.08.017
+Melamine,,,1.5,trimesoyl chloride (265.5),0.13,cyclohexane ,,,,,,,,,,,,,40,5,70,94,,10,1000,,1000,,,3.2,28,,75,,,10.1016/j.memsci.2012.08.017
+Melamine,,,2.5,trimesoyl chloride (265.5),0.13,cyclohexane ,,,,,,,,,,,,,40,5,70,94,,10,1000,,1000,,,2.5,14,,72,,,10.1016/j.memsci.2012.08.017
+Polyethyleneimine,,,3,trimesoyl chloride (265.5),0.1,hexane,,,,,,,,,,,,,60,5,22,126,148,10,1000,,,1000,,4.8,81.9,,98.5,,,10.1021/acssuschemeng.6b01299
+Polyethyleneimine,,,3,trimesoyl chloride (265.5),0.1,hexane,,,,,,,,,,,,,60,5,22,126,148,10,1000,,,1000,,7.3,61,,88.2,,,10.1021/acssuschemeng.6b01299
+Fluorinated polyamine,,,3,trimesoyl chloride (265.5),0.29,heptane,,,,,,,,,,,,,120,30,22,130,59,2,1000,1000,1000,1000,,7,22,43,51,21,,10.1021/acs.iecr.5b01950
+Piperazine,,,1,trimesoyl chloride (265.5),0.8,hexane,triethylamine,1,sodum dodecyl sulfate,0.1,,,,hyperbranched starch modified GO,0.2,,,sheet,60,8,90,139,10,8,1000,1000,1000,1000,,10,50,93,96.4,40,,doi.org/10.1016/j.jece.2019.103300
+Piperazine,,,0.25,trimesoyl chloride (265.5),0.038,hexane,,,,,,,,GO,0.005,,,sheet,60,3,80,141,,4,,1000,1000,,,12.76,,89,95.5,,,doi.org/10.1016/j.memsci.2018.08.047
+Piperazine,,,0.25,trimesoyl chloride (265.5),0.038,hexane,,,,,,,,GO,0.01,,,sheet,60,3,80,141,,4,,1000,1000,,,15.64,,90.5,96.56,,,doi.org/10.1016/j.memsci.2018.08.047
+Piperazine,,,0.25,trimesoyl chloride (265.5),0.038,hexane,,,,,,,,GO,0.015,,,sheet,60,3,80,141,,4,,1000,1000,,,8.78,,92.5,98.5,,,doi.org/10.1016/j.memsci.2018.08.047
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.1,hexane,triethylamine,2,camphor sulfonic acid ,1,,,,hydrophilic hollow nanocubes ,0.04,,,cube,60,15,60,142,20,6,1000,,1000,,,3.33,47.4,,95.2,,,doi.org/10.1021/acsami.8b19121
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.1,hexane,triethylamine,2,camphor sulfonic acid ,1,,,,ZIF-8,0.04,,,rhombic dodecahedron,60,15,60,142,20,6,1000,,1000,,,2.17,42,,93,,,doi.org/10.1021/acsami.8b19121
+Piperazine,,,0.25,trimesoyl chloride (265.5),0.1,hexane,sodum dodecyl sulfate,0.1,sodium carbonate,0.1,,,,ZIF-8/GO,0.1,,,rhombic dodecahedron on sheet,180,15,70,143,10,4,1000,1000,1000,1000,,4.38,34,78,100,12,,doi.org/10.1021/acsami.6b06992
+Piperazine,,,0.25,trimesoyl chloride (265.5),0.1,hexane,sodum dodecyl sulfate,0.1,sodium carbonate,0.1,,,,ZIF-8/GO,0.2,,,rhombic dodecahedron on sheet,180,15,70,143,10,4,1000,1000,1000,1000,,4.5,35,77,100,13,,doi.org/10.1021/acsami.6b06992
+Piperazine,,,0.25,trimesoyl chloride (265.5),0.1,hexane,sodum dodecyl sulfate,0.1,sodium carbonate,0.1,,,,ZIF-8/GO,0.3,,,rhombic dodecahedron on sheet,180,15,70,143,10,4,1000,1000,1000,1000,,2.75,50,80,100,20,,doi.org/10.1021/acsami.6b06992
+Piperazine,,,0.5,trimesoyl chloride (265.5),0.15,hexane,triethylamine,,,,11,,,sulfonated multi-walled carbon nanotube,0.005,,,tube,60,5,60,144,20,6,,,1000,,,10.83,,,97,,,doi.org/10.1016/j.memsci.2016.11.032
+Piperazine,,,0.5,trimesoyl chloride (265.5),0.15,hexane,triethylamine,,,,11,,,sulfonated multi-walled carbon nanotube,0.01,,,tube,60,5,60,144,20,6,1000,1000,1000,1000,,13.33,48,92.5,98,62,,doi.org/10.1016/j.memsci.2016.11.032
+Piperazine,,,0.5,trimesoyl chloride (265.5),0.15,hexane,triethylamine,,,,11,,,sulfonated multi-walled carbon nanotube,0.015,,,tube,60,5,60,144,20,6,,,1000,,,12.33,,,97,,,doi.org/10.1016/j.memsci.2016.11.032
+Piperazine,,,0.5,trimesoyl chloride (265.5),0.15,hexane,triethylamine,,,,11,,,sulfonated multi-walled carbon nanotube,0.02,,,tube,60,5,60,144,20,6,,,1000,,,10.33,,,96,,,doi.org/10.1016/j.memsci.2016.11.032
+Piperazine,,,1,trimesoyl chloride (265.5),0.4,hexane,triethylamine,3,camphor sulfonic acid ,3,,,,polypyrrole modified multi-walled carbon nanotube,0.005,,,tube,120,10,70,145,,10,,,2000,,,8.89,,,97.5,,,doi.org/10.1016/j.seppur.2017.04.037
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.1,hexane,triethylamine,2,camphor sulfonic acid ,1,,,,,,UiO-66,0.012,octahedral,60,15,60,146,20,4,,,1000,,,14.2,,,96.8,,,doi.org/10.1039/D0CC01556C
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.1,hexane,triethylamine,2,camphor sulfonic acid ,1,,,,,,UiO-66-NH2,0.012,octahedral,60,15,60,146,20,4,,,1000,,,15,,,97.3,,,doi.org/10.1039/D0CC01556C
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.1,hexane,triethylamine,2,camphor sulfonic acid ,1,,,,,,defect engineered-UiO-66-NH2,0.012,octahedral,60,15,60,146,20,4,1000,1000,1000,1000,,20.2,24,82,97.9,10,,doi.org/10.1039/D0CC01556C
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.1,hexane,triethylamine,2,camphor sulfonic acid ,1,,,,,,defect engineered-UiO-66-NH2,0.012,octahedral,60,15,60,146,20,6,,,1000,,,20,,,95.5,,,doi.org/10.1039/D0CC01556C
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.1,hexane,triethylamine,2,camphor sulfonic acid ,1,,,,,,defect engineered-UiO-66-NH2,0.012,octahedral,60,15,60,146,20,8,,,1000,,,17.75,,,92,,,doi.org/10.1039/D0CC01556C
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.1,hexane,triethylamine,2,camphor sulfonic acid ,1,,,,,,defect engineered-UiO-66-NH2,0.012,octahedral,60,15,60,146,20,10,,,1000,,,15.5,,,88,,,doi.org/10.1039/D0CC01556C
+Piperazine,,,2,trimesoyl chloride (265.5),0.015,hexane,,,,,,,,SiO2/GO,0.002,,,sphere on sheet,60,5,80,159,,7,2000,2000,2000,,,5.1,43,88,94,,,doi.org/10.1021/acs.iecr.9b03228
+Piperazine,,,2,trimesoyl chloride (265.5),0.015,hexane,,,,,,,,SiO2/GO,0.005,,,sphere on sheet,60,5,80,159,,7,2000,2000,2000,,,6,42,86,95,,,doi.org/10.1021/acs.iecr.9b03228
+Piperazine,,,2,trimesoyl chloride (265.5),0.015,hexane,,,,,,,,SiO2/GO,0.01,,,sphere on sheet,60,5,80,159,,7,2000,2000,2000,,,6.4,41,82,94,,,doi.org/10.1021/acs.iecr.9b03228
+Piperazine,,,2,trimesoyl chloride (265.5),0.015,hexane,,,,,,,,SiO2/GO,0.02,,,sphere on sheet,60,5,80,159,,7,2000,2000,2000,,,5.4,44,86,95,,,doi.org/10.1021/acs.iecr.9b03228
+Piperazine,,,1,trimesoyl chloride (265.5),0.4,hexane,riethylamine,3,camphor sulfonic acid ,3,,,,TiO2/reduced GO,0.002,,,sphere on sheet,,10,70,147,58,10,2000,,2000,,,5.8,35.6,,92.3,,,doi.org/10.1016/j.seppur.2015.09.039
+Piperazine,,,1,trimesoyl chloride (265.5),0.4,hexane,riethylamine,3,camphor sulfonic acid ,3,,,,TiO2/reduced GO,0.005,,,sphere on sheet,,10,70,147,58,10,2000,,2000,,,6.06,36.6,,93.6,,,doi.org/10.1016/j.seppur.2015.09.039
+Piperazine,,,1,trimesoyl chloride (265.5),0.4,hexane,riethylamine,3,camphor sulfonic acid ,3,,,,TiO2/reduced GO,0.01,,,sphere on sheet,,10,70,147,58,10,2000,,2000,,,6.14,34.5,,90.4,,,doi.org/10.1016/j.seppur.2015.09.039
+Piperazine,,,1,trimesoyl chloride (265.5),0.4,hexane,riethylamine,3,camphor sulfonic acid ,3,,,,TiO2/reduced GO,0.02,,,sphere on sheet,,10,70,147,58,10,2000,,2000,,,6.11,35.3,,90,,,doi.org/10.1016/j.seppur.2015.09.039
+Piperazine,,,2,trimesoyl chloride (265.5),0.05,heptane,,,,,,,,carboxylated GO,0.0025,,,sheet,30,15,50,148,,7,2000,2000,,,,8,20.3,95.6,,,,doi.org/10.1016/j.apsusc.2017.02.204
+Piperazine,,,2,trimesoyl chloride (265.5),0.05,heptane,,,,,,,,carboxylated GO,0.005,,,sheet,30,15,50,148,,7,2000,2000,,,,9.8,16.2,98.2,,,,doi.org/10.1016/j.apsusc.2017.02.204
+Piperazine,,,2,trimesoyl chloride (265.5),0.05,heptane,,,,,,,,carboxylated GO,0.01,,,sheet,30,15,50,148,,7,2000,2000,,,,12.8,12.6,99.2,,,,doi.org/10.1016/j.apsusc.2017.02.204
+Piperazine,,,2,trimesoyl chloride (265.5),0.05,heptane,,,,,,,,carboxylated GO,0.02,,,sheet,30,15,50,148,,7,2000,2000,,,,13.4,11.6,93.3,,,,doi.org/10.1016/j.apsusc.2017.02.204
+Piperazine,,,1.6,trimesoyl chloride (265.5),0.525,hexane,riethylamine,3,camphor sulfonic acid ,3,,,,MoS2,0.004,,,sheet,20,2,60,151,,3.5,2000,2000,2000,2000,,7.4,32,86,95,82,,doi.org/10.1016/j.memsci.2019.117526
+Piperazine,,,1.6,trimesoyl chloride (265.5),0.525,hexane,riethylamine,3,camphor sulfonic acid ,3,,,,MoS2,0.008,,,sheet,20,2,60,151,,3.5,2000,2000,2000,2000,,7.7,30,87,89,82,,doi.org/10.1016/j.memsci.2019.117526
+Piperazine,,,1.6,trimesoyl chloride (265.5),0.525,hexane,riethylamine,3,camphor sulfonic acid ,3,,,,MoS2,0.01,,,sheet,20,2,60,151,,3.5,2000,2000,2000,2000,,7.8,61,90,95,87,,doi.org/10.1016/j.memsci.2019.117526
+Piperazine,,,1.6,trimesoyl chloride (265.5),0.525,hexane,riethylamine,3,camphor sulfonic acid ,3,,,,MoS2,0.012,,,sheet,20,2,60,151,,3.5,2000,2000,2000,2000,,6.9,35,88,94,81,,doi.org/10.1016/j.memsci.2019.117526
+Piperazine,,,1.6,trimesoyl chloride (265.5),0.525,hexane,riethylamine,3,camphor sulfonic acid ,3,,,,MoS2,0.014,,,sheet,20,2,60,151,,3.5,2000,2000,2000,2000,,3,40,87,92,83,,doi.org/10.1016/j.memsci.2019.117526
+Piperazine,,,0.2,trimesoyl chloride (265.5),0.15,hexane,sodium hydroxide,,,,12,,,nanodiamond,0.01,,,dodecahedron,20,6,70,167,,6,,1200,,,,,,99,,,,doi.org/10.1016/j.memsci.2020.118003
+Piperazine,,,0.2,trimesoyl chloride (265.5),0.15,hexane,sodium hydroxide,,,,12,,,nanodiamond,0.025,,,dodecahedron,20,6,70,167,,6,,1200,,,,,,98,,,,doi.org/10.1016/j.memsci.2020.118003
+Piperazine,,,0.2,trimesoyl chloride (265.5),0.15,hexane,sodium hydroxide,,,,12,,,nanodiamond,0.05,,,dodecahedron,20,6,70,167,,6,584,1200,1420,952,1110,15,40,97.5,97.3,81,76,doi.org/10.1016/j.memsci.2020.118003
+Piperazine,,,0.2,trimesoyl chloride (265.5),0.15,hexane,sodium hydroxide,,,,12,,,nanodiamond,0.1,,,dodecahedron,20,6,70,167,,6,,1200,,,,,,96.5,,,,doi.org/10.1016/j.memsci.2020.118003
+Piperazine,,,0.7,trimesoyl chloride (265.5),0.025,hexane,,,,,11.5,,,polydopamine modified multi-walled carbon nanotube,0.05,,,tube,60,15,65,104,35,6,1000,1000,1000,1000,1000,15.32,33.8,76.1,45.2,91.5,90.5,doi.org/10.1021/acsami.6b00394
+Piperazine,,,2,trimesoyl chloride (265.5),0.2,hexane,,,,,,,,mesoporous synthetic hectorite ,0.01,,,layer,180,10,70,183,,5,,2000,2000,,,10.2,,85,68,,,doi.org/10.1016/j.memsci.2020.118212
+Piperazine,,,2,trimesoyl chloride (265.5),0.2,hexane,,,,,,,,mesoporous synthetic hectorite/UiO66-NH2,0.01,,,octahedral shaped crystal on sheet,180,10,70,183,,5,,2000,2000,,,9,,87,75,,,doi.org/10.1016/j.memsci.2020.118212
+Piperazine,,,2,trimesoyl chloride (265.5),0.2,hexane,,,,,,,,mesoporous synthetic hectorite ,0.01,,,layer,180,10,70,183,,10,,2000,2000,,,8.9,,88,78,,,doi.org/10.1016/j.memsci.2020.118212
+Piperazine,,,2,trimesoyl chloride (265.5),0.2,hexane,,,,,,,,mesoporous synthetic hectorite/UiO66-NH2,0.01,,,octahedral shaped crystal on sheet,180,10,70,183,,10,,2000,2000,,,7.7,,90,79,,,doi.org/10.1016/j.memsci.2020.118212
+Piperazine,,,2,trimesoyl chloride (265.5),0.2,hexane,,,,,,,,mesoporous synthetic hectorite ,0.01,,,layer,180,10,70,183,,15,2000,2000,2000,,,7.33,24,90.3,80.2,,,doi.org/10.1016/j.memsci.2020.118212
+Piperazine,,,2,trimesoyl chloride (265.5),0.2,hexane,,,,,,,,mesoporous synthetic hectorite/UiO66-NH2,0.01,,,octahedral  on sheet,180,10,70,183,,15,2000,2000,2000,,,7.73,36.42,94.42,82.29,,,doi.org/10.1016/j.memsci.2020.118212
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.1,hexane,,,,,,,,resorcinol-formaldehyde nanobowls,0.04,,,bowl,60,,60,184,20,6,,1000,1000,,,18,,92,95.8,,,doi.org/10.1016/j.memsci.2019.117468
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.1,hexane,,,,,,,,resorcinol-formaldehyde nanobowls,0.08,,,bowl,60,,60,184,20,6,,1000,1000,,,20.67,,91.5,95.5,,,doi.org/10.1016/j.memsci.2019.117468
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.2,hexane,,,,,,,,resorcinol-formaldehyde nanobowls,0.12,,,bowl,60,,60,184,20,6,,1000,1000,1000,,23.5,,91.23,95.77,25.98,,doi.org/10.1016/j.memsci.2019.117468
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.2,hexane,,,,,,,,resorcinol-formaldehyde nanobowls,0.16,,,bowl,60,,60,184,20,6,,1000,1000,,,24.5,,87,92,,,doi.org/10.1016/j.memsci.2019.117468
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.2,hexane,,,,,,,,,,spherical hollow silica nanoparticle,0.5,sphere,30,,,185,,6,1000,1000,1000,1000,,15,11.1,69.5,92.3,14.2,,doi.org/10.1016/j.memsci.2020.118333
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.2,hexane,,,,,,,,,,cubic hollow silica nanoparticle,0.5,cubic,30,,,185,,6,,,1000,,,12.8,,,91.5,,,doi.org/10.1016/j.memsci.2020.118333
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.2,hexane,,,,,,,,,,rodlike hollow silica nanoparticle,0.5,rodlike,30,,,185,,6,,,1000,,,10.2,,,97,,,doi.org/10.1016/j.memsci.2020.118333
+Piperazine,,,0.1,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,o-hydroxy porous organic polymer,0.01,porous polymer network,120,10,80,186,40,4,,,1000,,,19,,,98.2,,,doi.org/10.1016/j.memsci.2019.05.022
+Piperazine,,,0.1,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,o-hydroxy porous organic polymer,0.02,porous polymer network,120,10,80,186,40,4,,1000,1000,1000,1000,29.9,,96.6,97.5,8,10,doi.org/10.1016/j.memsci.2019.05.022
+Piperazine,,,0.1,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,,,o-hydroxy porous organic polymer,0.03,porous polymer network,120,10,80,186,40,4,,1000,1000,,,20.2,,97.5,97.3,,,doi.org/10.1016/j.memsci.2019.05.022
+Piperazine,,,2,trimesoyl chloride (265.5),0.15,hexane,triethylamine,2,,,,,,ethylenediamine modified GO,0.006,,,sheet,60,8,60,172,20,5,2000,2000,2000,2000,,11.8,35,97,98,94,,doi.org/10.1016/j.apsusc.2019.05.157
+Piperazine,,,2,trimesoyl chloride (265.5),0.15,hexane,triethylamine,2,,,,,,polyethylenimine modified GO,0.004,,,sheet,60,8,60,172,20,5,2000,2000,2000,2000,,12.5,37,98,98,95,,doi.org/10.1016/j.apsusc.2019.05.157
+Piperazine,,,2,trimesoyl chloride (265.5),0.225,hexane,,,,,,,,TiO2-NH2,0.1,,,sphere,60,1,60,181,20,5,1000,,1000,,,9,30,,99,,,doi.org/10.1016/j.jtice.2020.06.014
+Piperazine,,,2,trimesoyl chloride (265.5),0.225,hexane,,,,,,,,TiO2-NH2,0.2,,,sphere,60,1,60,181,20,5,1000,,1000,,,9.8,29,,99,,,doi.org/10.1016/j.jtice.2020.06.014
+Piperazine,,,2,trimesoyl chloride (265.5),0.225,hexane,,,,,,,,TiO2-NH2,0.3,,,sphere,60,1,60,181,20,5,1000,1000,1000,1000,1000,10.4,23,82,99,60,72,doi.org/10.1016/j.jtice.2020.06.014
+Piperazine,,,2,trimesoyl chloride (265.5),0.225,hexane,,,,,,,,TiO2-NH2,0.5,,,sphere,60,1,60,181,20,5,1000,,1000,,,10.4,21,,90,,,doi.org/10.1016/j.jtice.2020.06.014
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.2,hexane,,,,,,,,,,silica nanoparticle,0.35,sphere,60,10,50,182,,6,1000,1000,1000,1000,,9.5,42,96,98,65,,doi.org/10.1016/j.seppur.2019.05.018
+Piperazine,,,0.35,trimesoyl chloride (265.5),0.2,hexane,,,,,,,,,,polydopamine modified silica nanoparticle,0.35,sphere,60,10,50,182,,6,1000,1000,1000,1000,,15,35,94,98,67,,doi.org/10.1016/j.seppur.2019.05.018
+Piperazine,,,1,trimesoyl chloride (265.5),0.15,hexane,triethylamine ,1,camphorsulfonic acid ,1,,,,UiO-66,0.08,,,octahedral,45,3,100,187,30,10,,,1000,,,9.9,,,93,,,doi.org/10.1016/j.desal.2020.114649
+Piperazine,,,1,trimesoyl chloride (265.5),0.15,hexane,triethylamine ,1,camphorsulfonic acid ,1,,,,UiO-66-NH2,0.08,,,octahedral,45,3,100,187,30,10,,,1000,,,10,,,95,,,doi.org/10.1016/j.desal.2020.114649
+Piperazine,,,0.15,trimesoyl chloride (265.5),0.19,cyclohexane,,,,,,,,,,palmitoyl chloride modified UiO-66-NH2,0.05,octahedral,120,,,188,50,4,1000,1000,1000,,,10,35,100,96,,,doi.org/10.1039/C9RA09672H
+Piperazine,,,0.15,trimesoyl chloride (265.5),0.19,cyclohexane,,,,,,,,,,palmitoyl chloride modified UiO-66-NH2,0.1,octahedral,120,,,188,50,4,1000,1000,1000,,,11.3,33,100,94,,,doi.org/10.1039/C9RA09672H
+Piperazine,,,0.15,trimesoyl chloride (265.5),0.19,cyclohexane,,,,,,,,,,palmitoyl chloride modified UiO-66-NH2,0.15,octahedral,120,,,188,50,4,1000,1000,1000,,,12.4,29,99,92,,,doi.org/10.1039/C9RA09672H
+Piperazine,,,0.125,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,UiO-66-NH2,0.005,,,octahedral,30,30,60,189,,6,,,1000,,,,,,99,,,doi.org/10.1016/j.memsci.2020.117874
+Piperazine,,,0.125,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,UiO-66-NH2,0.01,,,octahedral,30,30,60,189,,6,,,1000,,,,,,98,,,doi.org/10.1016/j.memsci.2020.117874
+Piperazine,,,0.125,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,UiO-66-NH2,0.02,,,octahedral,30,30,60,189,,6,1000,1000,1000,1000,1000,9,63,91,97,45,40,doi.org/10.1016/j.memsci.2020.117874
+Piperazine,,,0.125,trimesoyl chloride (265.5),0.15,hexane,,,,,,,,UiO-66-NH2,0.04,,,octahedral,30,30,60,189,,6,,,1000,,,,,,97,,,doi.org/10.1016/j.memsci.2020.117874
+Piperazine,,,1,trimesoyl chloride (265.5),0.2,hexane,,,,,,,,metal-induced ordered microporous polymers,0.05,,,porous polymer network,60,,,191,60,5,1000,1000,1000,,,17,18,84,93,,,doi.org/10.1016/j.seppur.2020.117817
+Piperazine,,,1,trimesoyl chloride (265.5),0.2,hexane,,,,,,,,metal-induced ordered microporous polymers,0.1,,,porous polymer network,60,,,191,60,5,1000,1000,1000,,,11,20,85,94,,,doi.org/10.1016/j.seppur.2020.117817
+Piperazine,,,0.25,trimesoyl chloride (265.5),0.1,hexane,sodum dodecyl sulfate,0.1,sodium carbonate,0.1,,,,TiO2/GO,0.1,,,sphere on sheet,120,15,70,176,,4,1000,1000,1000,1000,,3.5,49,85,100,16,,doi.org/10.1016/j.memsci.2017.03.040
+Piperazine,,,1,trimesoyl chloride (265.5),0.1,hexane,sodum dodecyl sulfate,0.1,sodium carbonate,0.1,,,,TiO2/GO,0.2,,,sphere on sheet,120,15,70,176,,4,1000,1000,1000,1000,,6,30,55,99,8,,doi.org/10.1016/j.memsci.2017.03.040
+Piperazine,,,1,trimesoyl chloride (265.5),0.1,hexane,sodum dodecyl sulfate,0.1,sodium carbonate,0.1,,,,TiO2/GO,0.3,,,sphere on sheet,120,15,70,176,,4,1000,1000,1000,1000,,2.2,53,87,99,20,,doi.org/10.1016/j.memsci.2017.03.040
+Piperazine,,,2,trimesoyl chloride (265.5),0.15,hexane,sodum dodecyl sulfate,,,,,,,carboxylic functionalized GO,0.05,,,sheet,60,10,80,177,,10,2000,2000,2000,2000,,10,26,72,86,20,,doi.org/10.1016/j.memsci.2017.05.075
+Piperazine,,,2,trimesoyl chloride (265.5),0.15,hexane,sodum dodecyl sulfate,,,,,,,carboxylic functionalized GO,0.01,,,sheet,60,10,80,177,,10,2000,2000,2000,2000,,4.9,36,87,90,34,,doi.org/10.1016/j.memsci.2017.05.075
+Piperazine,,,2,trimesoyl chloride (265.5),0.15,hexane,sodum dodecyl sulfate,,,,,,,carboxylic functionalized GO,0.07,,,sheet,60,10,80,177,,10,2000,2000,2000,2000,,11.4,26,67,85,19,,doi.org/10.1016/j.memsci.2017.05.075
+Piperazine,,,0.1,trimesoyl chloride (265.5),0.15,hexane,,,,,,,, L-aspartic acid functionalized graphene quantum dots,0.1,,,dot,120,20,60,178,,5.5,2000,2000,2000,2000,,15,28,89,98,37,,doi.org/10.1016/j.desal.2020.114811
+Piperazine,,,0.1,trimesoyl chloride (265.5),0.15,hexane,,,,,,,, L-aspartic acid functionalized graphene quantum dots,0.2,,,dot,120,20,60,178,,5.5,2000,2000,2000,2000,,17,26,90,98,35,,doi.org/10.1016/j.desal.2020.114811
+Piperazine,,,0.1,trimesoyl chloride (265.5),0.15,hexane,,,,,,,, L-aspartic acid functionalized graphene quantum dots,0.3,,,dot,120,20,60,178,,5.5,2000,2000,2000,2000,,18.5,29,91,99,43,,doi.org/10.1016/j.desal.2020.114811
+Piperazine,,,0.1,trimesoyl chloride (265.5),0.15,hexane,,,,,,,, L-aspartic acid functionalized graphene quantum dots,0.4,,,dot,120,20,60,178,,5.5,2000,2000,2000,2000,,23,29,85,90,23,,doi.org/10.1016/j.desal.2020.114811
+Polyetherimide,,,1.5,trimesoyl chloride (265.5),0.1,hexane,sodum dodecyl sulfate,0.1,sodium carbonate,0.1,,,,exfoliated hydrotalcite/GO,0.06,,,sheet,180,15,70,175,10,4,1000,1000,1000,1000,,,39,25,20,85,,doi.org/10.1016/j.desal.2017.05.012
+Polyetherimide,,,1.5,trimesoyl chloride (265.5),0.1,hexane,sodum dodecyl sulfate,0.1,sodium carbonate,0.1,,,,exfoliated hydrotalcite/GO,0.12,,,sheet,180,15,70,175,10,4,1000,1000,1000,1000,,,41,20,13,90,,doi.org/10.1016/j.desal.2017.05.012
+Polyetherimide,,,1.5,trimesoyl chloride (265.5),0.1,hexane,sodum dodecyl sulfate,0.1,sodium carbonate,0.1,,,,exfoliated hydrotalcite/GO,0.24,,,sheet,180,15,70,175,10,4,1000,1000,1000,1000,,,42,45,33,95,,doi.org/10.1016/j.desal.2017.05.012
+Tannic acid,,,0.3,trimesoyl chloride (265.5),0.1,hexane,,,,,7,,,TiO2,0.02,,,sphere,60,30,60,180,53.5,5,1000,1000,1000,1000,1000,5.8,57.9,96.8,94.6,70.5,65.4,doi.org/10.1016/j.jcis.2020.03.087
+Tannic acid,,,0.3,trimesoyl chloride (265.5),0.1,hexane,,,,,7,,,TiO2,0.045,,,sphere,60,30,60,180,53.5,5,1000,,1000,,,12,26,,77,,,doi.org/10.1016/j.jcis.2020.03.087
+Tannic acid,,,0.03,Isophorone diisocyanate (222.3),0.375,hexane,,,,,7,,,graphe oxide quantum dots,0.25,,,,600,5,60,135,,2,,,1000,,,8,,,66.7,,,doi.org/10.1021/acsami.6b12826
+Tannic acid,,,0.03,Isophorone diisocyanate (222.3),0.375,hexane,,,,,7,,,graphe oxide quantum dots,0.5,,,,600,5,60,135,,2,1000,1000,1000,,,9,16,30,65.7,,,doi.org/10.1021/acsami.6b12826
+Tannic acid,,,0.03,Isophorone diisocyanate (222.3),0.375,hexane,,,,,7,,,graphe oxide quantum dots,0.75,,,,600,5,60,135,,2,,,1000,,,10.5,,,62.7,,,doi.org/10.1021/acsami.6b12826
+Tannic acid,,,0.03,Isophorone diisocyanate (222.3),0.375,hexane,,,,,7,,,graphe oxide quantum dots,1,,,,600,5,60,135,,2,,,1000,,,11.5,,,57.1,,,doi.org/10.1021/acsami.6b12826
+Triethanolamine,,,6,trimesoyl chloride (265.5),0.9,hexane,,,,,,,,multi-walled carbon nanotube-COOH,0.5,,,tube,2100,30,60,92,,6,,,710,,,3.7,,,70,,,doi.org/10.1016/j.memsci.2012.10.042
+Triethanolamine,,,6,trimesoyl chloride (265.5),0.9,hexane,sodum dodecyl sulfate,0.3,,,,,,multi-walled carbon nanotube-COOH,0.5,,,tube,2100,30,60,92,,6,342,,710,,,3.5,20,,78,,,doi.org/10.1016/j.memsci.2012.10.042
+Triethanolamine,,,6,trimesoyl chloride (265.5),0.9,hexane,Trixton x-100,0.3,,,,,,multi-walled carbon nanotube-COOH,0.5,,,tube,2100,30,60,92,,6,,,710,,,3.6,,,69,,,doi.org/10.1016/j.memsci.2012.10.042
+Triethanolamine,,,6,trimesoyl chloride (265.5),0.9,hexane,cetyltrimethylammonium bromide,0.3,,,,,,multi-walled carbon nanotube-COOH,0.5,,,tube,2100,30,60,92,,6,,,710,,,6.4,,,43,,,doi.org/10.1016/j.memsci.2012.10.042
